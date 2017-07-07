@@ -1,0 +1,1169 @@
+[17570:17575:57253982968:ERROR:nss_util.cc(90)] Failed to create /home/mininet/.pki/nssdb directory.
+[17570:17575:57253984559:WARNING:proxy_service.cc(889)] PAC support disabled because there is no system implementation
+*** Renamed /portal/pls/portallive/PORTALLIVE.wwv_setting.render_custom_css?p_bg_color=FFFFFF&p_is_bidi=0&p_version=10.1.4.2.0.197 to /ea955419e1a23e95532b2eef0642e8f7 ***
+*** Renamed /portal/pls/portallive/PORTALLIVE.wwsbr_javascript.page_js?p_language=us&p_version=10.1.4.2.0.197 to /5def20759ebaab54a2c85d0bef62ae3a ***
+*** Renamed /imedia/general_graphics/landpageslideshow/left_pagination_arrow_on.png to /fc2698dc9cd547403d5daad2034de3cb ***
+*** Renamed /imedia/general_graphics/landpageslideshow/right_pagination_arrow_on.png to /562a74636f0ab4882a50a6138d856edd ***
+*** Renamed /uds/api/feeds/1.0/482f2817cdf8982edf2e5669f9e3a627/default+en.css to /a3a72bcd3ff86b2d476e85dac44c3525 ***
+*** Renamed /uds/api/feeds/1.0/482f2817cdf8982edf2e5669f9e3a627/default+en.I.js to /459bf866d7bc812e841d4c275c6ff1eb ***
+*** Renamed /__utm.gif?utmwv=5.4.7&utms=1&utmn=1316962534&utmhn=www3.imperial.ac.uk&utmcs=UTF-8&utmsr=1024x768&utmvp=785x585&utmsc=16-bit&utmul=en-us&utmje=0&utmfl=-&utmdt=Computing&utmhid=1865112759&utmr=-&utmp=%2Fcomputing%2F&utmht=1393788400084&utmac=UA-2035562-1&utmcc=__utma%3D168090937.1834775097.1393788400.1393788400.1393788400.1%3B%2B__utmz%3D168090937.1393788400.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qjAAAC~ to /50aa4c9ad577b27667b041762ac6c6de ***
+*** Renamed /uds/Gfeeds?callback=google.feeds.Feed.RawCompletion&context=0&num=3&hl=en&output=xml&q=http%3A%2F%2Fwww3.imperial.ac.uk%2Fimperialnewsevents%2Feventsfront%3Fpid%3D5591_177353454_5591_177343951_177343951&key=notsupplied&v=1.0&nocache=1393788400128 to /f7be6188029aff951eae1468c941fa8e ***
+*** Renamed /uds/Gfeeds?callback=google.feeds.Feed.RawCompletion&context=1&num=3&hl=en&output=xml&q=http%3A%2F%2Fwww3.imperial.ac.uk%2Fimperialnewsevents%2Fnewssummary%3Fs%3D177352878&key=notsupplied&v=1.0&nocache=1393788400129 to /5706a4d524e18466b1e49b56d2079c75 ***
+[17570:17570:57257309085:INFO:CONSOLE(0)] "Uncaught TypeError: Object [object global] has no method 'overlay'," source: http://www3.imperial.ac.uk/2007templates/js/global.js(883)
+[17570:17570:57257309536:INFO:CONSOLE(0)] "Uncaught TypeError: Object [object global] has no method 'cycle'," source: http://www3.imperial.ac.uk/2007templates/js/global.js(883)
+main frame - has 1 onunload handler(s)
+<stats>
+c:tfo.supported:	0
+c:WebFrameActiveCount:	2
+t:tfo.page_load_timer:	4785
+c:URLRequestCount:	88
+c:disk_cache.miss:	93
+c:HttpNetworkTransaction.Count:	93
+c:tcp.connect:	32
+c:tcp.write_bytes:	57115
+c:tcp.read_bytes:	513133
+c:socket.backup_created:	5
+</stats>
+
+<resolves>
+strt (ms) | end (ms)  | len (ms)  | err | url:port -> address_list
+   21.472 |    51.558 |    30.086 |   0 | www.doc.ic.ac.uk:80 ->  146.169.13.56:80
+   21.516 |    21.516 |     0.000 |   1 | www.doc.ic.ac.uk:80 ->  nil
+  347.089 |  4796.223 |  4449.134 |   0 | www3.imperial.ac.uk:80 ->  155.198.58.132:80
+  347.179 |   347.179 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  598.262 |   598.262 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  928.865 |   928.865 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  930.148 |   930.148 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  930.200 |   930.200 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  931.167 |   931.167 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  931.217 |   931.217 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  932.156 |   932.156 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  932.205 |   932.205 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  938.672 |   938.672 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  938.743 |   938.743 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  938.985 |   938.985 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  939.075 |  2573.225 |  1634.150 |   0 | www.google.com:80 ->  74.125.227.243:80 74.125.227.244:80 74.125.227.240:80 74.125.227.241:80 74.125.227.242:80
+  939.120 |   939.120 |     0.000 |   1 | www.google.com:80 ->  nil
+  940.012 |   940.012 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  940.100 |   940.100 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  940.181 |   940.181 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  940.268 |   940.268 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  940.351 |   940.351 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+  940.439 |   940.439 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1065.420 |  1065.420 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1065.538 |  1065.538 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1065.710 |  1065.710 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1068.169 |  1068.169 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1068.458 |  1068.458 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1068.589 |  1319.499 |   250.910 |   0 | icwww.cc.ic.ac.uk:80 ->  155.198.140.14:80
+ 1068.668 |  1068.668 |     0.000 |   1 | icwww.cc.ic.ac.uk:80 ->  nil
+ 1069.295 |  1069.295 |     0.000 |   1 | icwww.cc.ic.ac.uk:80 ->  nil
+ 1069.381 |  1069.381 |     0.000 |   1 | icwww.cc.ic.ac.uk:80 ->  nil
+ 1070.199 |  1320.914 |   250.715 |   0 | www2.imperial.ac.uk:80 ->  155.198.141.9:80
+ 1070.276 |  1070.276 |     0.000 |   1 | www2.imperial.ac.uk:80 ->  nil
+ 1070.529 |  1070.529 |     0.000 |   1 | www2.imperial.ac.uk:80 ->  nil
+ 1070.599 |  1070.599 |     0.000 |   1 | www2.imperial.ac.uk:80 ->  nil
+ 1070.717 |  1105.145 |    34.428 |   0 | datejs.googlecode.com:80 ->  74.125.30.82:80
+ 1070.785 |  1070.785 |     0.000 |   1 | datejs.googlecode.com:80 ->  nil
+ 1077.970 |  1077.970 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1078.059 |  1078.059 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1078.150 |  1078.150 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1078.233 |  1078.233 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1078.319 |  1078.319 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1078.401 |  1078.401 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1078.481 |  1078.481 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1078.562 |  1078.562 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1078.641 |  1078.641 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1235.976 |  1235.976 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 1319.475 |  1319.475 |     0.000 |   1 | icwww.cc.ic.ac.uk:80 ->  nil
+ 1320.891 |  1320.891 |     0.000 |   1 | www2.imperial.ac.uk:80 ->  nil
+ 1629.054 |  1880.470 |   251.416 |   0 | wwwf.imperial.ac.uk:80 ->  155.198.141.12:80
+ 1629.149 |  1629.149 |     0.000 |   1 | wwwf.imperial.ac.uk:80 ->  nil
+ 1646.990 |  1646.990 |     0.000 |   1 | wwwf.imperial.ac.uk:80 ->  nil
+ 1647.077 |  1647.077 |     0.000 |   1 | wwwf.imperial.ac.uk:80 ->  nil
+ 1880.435 |  1880.435 |     0.000 |   1 | wwwf.imperial.ac.uk:80 ->  nil
+ 2079.175 |  2527.209 |   448.034 |   0 | www.google-analytics.com:80 ->  74.125.225.238:80 74.125.225.224:80 74.125.225.225:80 74.125.225.226:80 74.125.225.227:80 74.125.225.228:80 74.125.225.229:80 74.125.225.230:80 74.125.225.231:80 74.125.225.232:80 74.125.225.233:80
+ 2079.238 |  2079.238 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 2080.559 |  2332.511 |   251.952 |   0 | labs.apnic.net:80 ->  203.133.248.2:80
+ 2080.612 |  2080.612 |     0.000 |   1 | labs.apnic.net:80 ->  nil
+ 2082.503 |  2082.503 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2083.756 |  2083.756 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2084.632 |  2084.632 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2085.433 |  2085.433 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2086.281 |  2086.281 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2087.395 |  2087.395 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2091.190 |  2091.190 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2092.126 |  2092.126 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2093.166 |  2093.166 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2094.124 |  2094.124 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2096.262 |  2096.262 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2097.069 |  2097.069 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2098.130 |  2098.130 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2098.946 |  2098.946 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2099.781 |  2099.781 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2100.677 |  2100.677 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2101.458 |  2101.458 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2103.121 |  2103.121 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2124.162 |  2124.162 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2125.987 |  2125.987 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2127.028 |  2127.028 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2273.355 |  2273.355 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2279.346 |  2279.346 |     0.000 |   1 | www.google.com:80 ->  nil
+ 2332.490 |  2332.490 |     0.000 |   1 | labs.apnic.net:80 ->  nil
+ 2424.563 |  2424.563 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 2433.714 |  2433.714 |     0.000 |   1 | www.google.com:80 ->  nil
+ 2434.899 |  2434.899 |     0.000 |   1 | www.google.com:80 ->  nil
+ 2434.952 |  2434.952 |     0.000 |   1 | www.google.com:80 ->  nil
+ 2527.194 |  2527.194 |     0.000 |   1 | www.google-analytics.com:80 ->  nil
+ 2572.516 |  2572.516 |     0.000 |   1 | www.google.com:80 ->  nil
+ 2573.219 |  2573.219 |     0.000 |   1 | www.google.com:80 ->  nil
+ 2574.288 |  2574.288 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2574.797 |  2574.797 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2575.638 |  2575.638 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2576.540 |  2576.540 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2577.008 |  2577.008 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2577.676 |  2577.676 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2805.915 |  2805.915 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2806.784 |  2806.784 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2807.739 |  2807.739 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2821.689 |  2821.689 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2833.771 |  3128.343 |   294.572 |   0 | www.imperial.ac.uk:80 ->  155.198.140.14:80
+ 2833.831 |  2833.831 |     0.000 |   1 | www.imperial.ac.uk:80 ->  nil
+ 2835.549 |  2835.549 |     0.000 |   1 | www.imperial.ac.uk:80 ->  nil
+ 2835.601 |  2835.601 |     0.000 |   1 | www.imperial.ac.uk:80 ->  nil
+ 2838.283 |  2838.283 |     0.000 |   1 | www.imperial.ac.uk:80 ->  nil
+ 2838.335 |  2838.335 |     0.000 |   1 | www.imperial.ac.uk:80 ->  nil
+ 2839.601 |  2839.601 |     0.000 |   1 | www.imperial.ac.uk:80 ->  nil
+ 2839.659 |  2839.659 |     0.000 |   1 | www.imperial.ac.uk:80 ->  nil
+ 2919.874 |  2919.874 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2920.849 |  2920.849 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 2921.738 |  2921.738 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+ 3000.283 |  3271.295 |   271.012 |   0 | t10000.u1393788400556.s995750143.i894942.v10i.r4.td.labs.apnic.net:80 ->  203.133.248.45:80
+ 3000.540 |  3000.540 |     0.000 |   1 | t10000.u1393788400556.s995750143.i894942.v10i.r4.td.labs.apnic.net:80 ->  nil
+ 3002.679 |  4293.347 |  1290.668 |   0 | t10000.u1393788400556.s995750143.i894942.v10i.rd.td.labs.apnic.net:80 ->  203.133.248.42:80
+ 3002.768 |  3002.768 |     0.000 |   1 | t10000.u1393788400556.s995750143.i894942.v10i.rd.td.labs.apnic.net:80 ->  nil
+ 3004.570 |  3329.395 |   324.825 | 4294967191 | t10000.u1393788400556.s995750143.i894942.v10i.r6.td.labs.apnic.net:80 ->  nil
+ 3004.623 |  3004.623 |     0.000 |   1 | t10000.u1393788400556.s995750143.i894942.v10i.r6.td.labs.apnic.net:80 ->  nil
+ 3006.898 |  3281.511 |   274.613 |   0 | t10000.u1393788400556.s995750143.i894942.v10i.rd.t6.labs.apnic.net:80 ->  203.133.248.28:80
+ 3007.028 |  3007.028 |     0.000 |   1 | t10000.u1393788400556.s995750143.i894942.v10i.rd.t6.labs.apnic.net:80 ->  nil
+ 3007.203 |  3007.258 |     0.055 |   0 | 2401:2000:6660::f003:80 ->  [2401:2000:6660::f003]:80
+ 3007.251 |  3007.251 |     0.000 |   1 | 2401:2000:6660::f003:80 ->  nil
+ 3520.934 |  3521.921 |     0.987 |   0 | www.imperial.ac.uk:443 ->  155.198.140.14:443
+ 3521.356 |  3521.356 |     0.000 |   1 | www.imperial.ac.uk:443 ->  nil
+ 3521.367 |  3521.367 |     0.000 |   1 | www.imperial.ac.uk:443 ->  nil
+ 3521.870 |  3521.870 |     0.000 |   1 | www.imperial.ac.uk:443 ->  nil
+ 3521.908 |  3521.908 |     0.000 |   1 | www.imperial.ac.uk:443 ->  nil
+ 3521.917 |  3521.917 |     0.000 |   1 | www.imperial.ac.uk:443 ->  nil
+ 4796.208 |  4796.208 |     0.000 |   1 | www3.imperial.ac.uk:80 ->  nil
+</resolves>
+
+<transactions>
+strt (ms) | end (ms)  | len (ms)  | url
+   21.427 |   345.947 |   324.520 | http://www.doc.ic.ac.uk/
+  939.059 |  1028.694 |    89.635 | http://www.google.com/jsapi
+  928.835 |  1106.269 |   177.434 | http://www3.imperial.ac.uk/2007templates/css/colorslavea.css
+  347.044 |  1232.969 |   885.925 | http://www3.imperial.ac.uk/computing/
+  938.650 |  1276.853 |   338.203 | http://www3.imperial.ac.uk/2007templates/css/old.css
+  938.955 |  1295.048 |   356.093 | http://www3.imperial.ac.uk/2007templates/css/print.css
+ 1070.692 |  1320.747 |   250.055 | http://datejs.googlecode.com/files/date.js
+  939.989 |  1507.820 |   567.831 | http://www3.imperial.ac.uk/2007templates/css/pwp_prod.css
+ 1069.237 |  1581.018 |   511.781 | http://icwww.cc.ic.ac.uk/imedia/general_graphics/landpageslideshow/right_pagination_arrow_on.png
+  930.124 |  1600.411 |   670.287 | http://www3.imperial.ac.uk/portal/pls/portallive/PORTALLIVE.wwv_setting.render_custom_css?p_bg_color=FFFFFF&p_is_bidi=0&p_version=10.1.4.2.0.197
+ 1070.166 |  1628.065 |   557.899 | http://www2.imperial.ac.uk/utils/applications/header_showcase/js/main.js
+  931.143 |  1637.223 |   706.080 | http://www3.imperial.ac.uk/2007templates/css/site.css
+ 1070.500 |  1646.440 |   575.940 | http://www2.imperial.ac.uk/utils/applications/header_showcase/css/screen.css
+  940.246 |  1693.566 |   753.320 | http://www3.imperial.ac.uk/2007templates/js/flashvideo.vbs
+ 1068.564 |  1717.892 |   649.328 | http://icwww.cc.ic.ac.uk/imedia/general_graphics/landpageslideshow/left_pagination_arrow_on.png
+  932.135 |  1897.736 |   965.601 | http://www3.imperial.ac.uk/2007templates/css/content.css
+ 1065.375 |  1921.180 |   855.805 | http://www3.imperial.ac.uk/2007templates/images/logo_imperial_college_london.png
+  940.166 |  1921.997 |   981.831 | http://www3.imperial.ac.uk/2007templates/js/global.js
+  940.335 |  1926.520 |   986.185 | http://www3.imperial.ac.uk/2007templates/js/cufon-yui.js
+  940.423 |  2011.443 |  1071.020 | http://www3.imperial.ac.uk/2007templates/js/MetaBook-Roman_400_open.font.js
+  940.083 |  2037.818 |  1097.735 | http://www3.imperial.ac.uk/2007templates/js/jquery.js
+ 1065.521 |  2115.466 |  1049.945 | http://www3.imperial.ac.uk/2007templates/images/submit_search.png
+ 1065.689 |  2120.614 |  1054.925 | http://www3.imperial.ac.uk/portal/pls/portallive/PORTALLIVE.wwsbr_javascript.page_js?p_language=us&p_version=10.1.4.2.0.197
+ 1078.043 |  2248.742 |  1170.699 | http://www3.imperial.ac.uk/2007templates/images/bullet_white_arrow.png
+ 1629.009 |  2250.460 |   621.451 | http://wwwf.imperial.ac.uk/utils/applications/header_showcase/js/main.js
+ 1646.958 |  2266.529 |   619.571 | http://wwwf.imperial.ac.uk/utils/applications/header_showcase/css/screen.css
+ 1078.217 |  2338.813 |  1260.596 | http://www3.imperial.ac.uk/2007templates/images/icon_delicious.gif
+ 1078.134 |  2339.933 |  1261.799 | http://www3.imperial.ac.uk/2007templates/images/submit_send_email.gif
+ 2079.142 |  2395.989 |   316.847 | http://www.google-analytics.com/ga.js
+ 2279.334 |  2428.580 |   149.246 | http://www.google.com/uds/?file=feeds&v=1
+ 1078.297 |  2498.673 |  1420.376 | http://www3.imperial.ac.uk/2007templates/images/twitter.gif
+ 2424.533 |  2502.672 |    78.139 | http://www.google-analytics.com/plugins/ga/inpage_linkid.js
+ 2433.670 |  2532.458 |    98.788 | http://www.google.com/uds/api/feeds/1.0/482f2817cdf8982edf2e5669f9e3a627/default+en.css
+ 1078.385 |  2533.180 |  1454.795 | http://www3.imperial.ac.uk/2007templates/images/icon_digg.png
+ 1078.466 |  2534.290 |  1455.824 | http://www3.imperial.ac.uk/2007templates/images/icon_stumbleupon.gif
+ 2434.877 |  2560.144 |   125.267 | http://www.google.com/uds/api/feeds/1.0/482f2817cdf8982edf2e5669f9e3a627/default+en.I.js
+ 2527.164 |  2692.495 |   165.331 | http://www.google-analytics.com/__utm.gif?utmwv=5.4.7&utms=1&utmn=1316962534&utmhn=www3.imperial.ac.uk&utmcs=UTF-8&utmsr=1024x768&utmvp=785x585&utmsc=16-bit&utmul=en-us&utmje=0&utmfl=-&utmdt=Computing&utmhid=1865112759&utmr=-&utmp=%2Fcomputing%2F&utmht=1393788400084&utmac=UA-2035562-1&utmcc=__utma%3D168090937.1834775097.1393788400.1393788400.1393788400.1%3B%2B__utmz%3D168090937.1393788400.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qjAAAC~
+ 2573.208 |  2783.173 |   209.965 | http://www.google.com/uds/Gfeeds?callback=google.feeds.Feed.RawCompletion&context=1&num=3&hl=en&output=xml&q=http%3A%2F%2Fwww3.imperial.ac.uk%2Fimperialnewsevents%2Fnewssummary%3Fs%3D177352878&key=notsupplied&v=1.0&nocache=1393788400129
+ 1078.547 |  2809.447 |  1730.900 | http://www3.imperial.ac.uk/2007templates/images/facebook.gif
+ 1078.626 |  2810.400 |  1731.774 | http://www3.imperial.ac.uk/2007templates/js/menu_footer.js
+ 1235.736 |  2811.236 |  1575.500 | http://www3.imperial.ac.uk/2007templates/css/fontfix.css
+ 2572.496 |  2904.599 |   332.103 | http://www.google.com/uds/Gfeeds?callback=google.feeds.Feed.RawCompletion&context=0&num=3&hl=en&output=xml&q=http%3A%2F%2Fwww3.imperial.ac.uk%2Fimperialnewsevents%2Feventsfront%3Fpid%3D5591_177353454_5591_177343951_177343951&key=notsupplied&v=1.0&nocache=1393788400128
+ 2080.537 |  2992.615 |   912.078 | http://labs.apnic.net/ipprototest.js
+ 3007.178 |  3008.432 |     1.254 | http://[2401:2000:6660::f003]/1x1.png?t10000.u1393788400556.s995750143.i894942.v10i.v6lit
+ 1077.948 |  3049.178 |  1971.230 | http://www3.imperial.ac.uk/icimages?p_imgid=402408
+ 2082.480 |  3094.184 |  1011.704 | http://www3.imperial.ac.uk/2007templates/images/bullet_home_link.gif
+ 2083.735 |  3095.429 |  1011.694 | http://www3.imperial.ac.uk/2007templates/images/header_bar_bg.png
+ 2084.610 |  3097.251 |  1012.641 | http://www3.imperial.ac.uk/2007templates/images/search_area_bg.png
+ 1068.431 |  3129.827 |  2061.396 | http://www3.imperial.ac.uk/icimages?p_imgid=398957
+ 2085.412 |  3222.943 |  1137.531 | http://www3.imperial.ac.uk/2007templates/images/search_left_border_bg.png
+ 2086.259 |  3248.563 |  1162.304 | http://www3.imperial.ac.uk/2007templates/images/search_divider_bg.png
+ 2091.165 |  3263.478 |  1172.313 | http://www3.imperial.ac.uk/2007templates/images/icon_find_people.png
+ 2087.373 |  3271.138 |  1183.765 | http://www3.imperial.ac.uk/pls/portallive/docs/1/65329697.GIF
+ 2092.103 |  3300.010 |  1207.907 | http://www3.imperial.ac.uk/2007templates/images/audience_nav_right_border_bg.png
+ 3004.547 |  3329.582 |   325.035 | http://t10000.u1393788400556.s995750143.i894942.v10i.r6.td.labs.apnic.net/1x1.png?t10000.u1393788400556.s995750143.i894942.v10i.r6.td
+ 1068.135 |  3378.979 |  2310.844 | http://www3.imperial.ac.uk/icimages?p_imgid=401063
+ 2093.144 |  3386.031 |  1292.887 | http://www3.imperial.ac.uk/2007templates/images/bullet_audience_nav.png
+ 2094.095 |  3398.040 |  1303.945 | http://www3.imperial.ac.uk/2007templates/images/audience_nav_divider_bg.png
+ 2096.241 |  3417.034 |  1320.793 | http://www3.imperial.ac.uk/2007templates/images/content_area_bg.jpg
+ 2097.048 |  3435.742 |  1338.694 | http://www3.imperial.ac.uk/2007templates/images/ca_left_bg.gif
+ 2839.577 |  3436.308 |   596.731 | http://www.imperial.ac.uk/imedia/plugins/cycle/cycle.css
+ 2098.108 |  3456.742 |  1358.634 | http://www3.imperial.ac.uk/2007templates/images/ca_right_bg.gif
+ 2835.527 |  3520.592 |   685.065 | http://www.imperial.ac.uk/imedia/plugins/overlay/overlay.css
+ 2833.747 |  3521.557 |   687.810 | http://www.imperial.ac.uk/imedia/plugins/overlay/overlay.js
+ 2098.925 |  3540.619 |  1441.694 | http://www3.imperial.ac.uk/2007templates/images/ca_top_left_bg.jpg
+ 2099.760 |  3547.924 |  1448.164 | http://www3.imperial.ac.uk/2007templates/images/ca_top_right_bg.png
+ 2100.648 |  3557.074 |  1456.426 | http://www3.imperial.ac.uk/2007templates/images/ca_bot_left_bg.gif
+ 2838.260 |  3564.764 |   726.504 | http://www.imperial.ac.uk/imedia/plugins/cycle/cycle.js
+ 2101.437 |  3572.542 |  1471.105 | http://www3.imperial.ac.uk/2007templates/images/ca_bot_right_bg.gif
+ 2103.100 |  3599.289 |  1496.189 | http://www3.imperial.ac.uk/images/pobtrans.gif
+ 2124.132 |  3607.408 |  1483.276 | http://www3.imperial.ac.uk/2007templates/images/bullet.gif
+ 2273.337 |  3718.149 |  1444.812 | http://www3.imperial.ac.uk/2007templates/images/photo_caption_bg.png
+ 2127.006 |  3721.351 |  1594.345 | http://www3.imperial.ac.uk/2007templates/images/bullet_col.gif
+ 2125.964 |  3721.494 |  1595.530 | http://www3.imperial.ac.uk/2007templates/images/dotted_line_bg.gif
+ 2574.277 |  3725.079 |  1150.802 | http://www3.imperial.ac.uk/2007templates/images/h2_sub_content_bg.gif
+ 2574.786 |  3755.825 |  1181.039 | http://www3.imperial.ac.uk/2007templates/images/bullet_sub_content.gif
+ 2575.628 |  3766.639 |  1191.011 | http://www3.imperial.ac.uk/2007templates/images/quick_info_block_bg.png
+ 2576.529 |  3869.038 |  1292.509 | http://www3.imperial.ac.uk/2007templates/images/icons/icon_bw_print.gif
+ 2576.998 |  3874.854 |  1297.856 | http://www3.imperial.ac.uk/2007templates/images/icons/icon_bw_mail.gif
+ 2577.664 |  3882.978 |  1305.314 | http://www3.imperial.ac.uk/icimages?p_imgid=23246
+ 2805.815 |  3895.039 |  1089.224 | http://www3.imperial.ac.uk/newseventsimages?p_image_type=SMALL&p_image_id=21446
+ 2806.761 |  3915.136 |  1108.375 | http://www3.imperial.ac.uk/newseventsimages?p_image_type=SMALL&p_image_id=21371
+ 2807.716 |  3924.437 |  1116.721 | http://www3.imperial.ac.uk/newseventsimages?p_image_type=SMALL&p_image_id=21182
+ 2821.598 |  4028.106 |  1206.508 | http://www3.imperial.ac.uk/2007templates/images/bullet_footer_nav.gif
+ 2919.833 |  4039.223 |  1119.390 | http://www3.imperial.ac.uk/newseventsimages?p_image_type=SMALL&p_image_id=21196
+ 2920.828 |  4058.304 |  1137.476 | http://www3.imperial.ac.uk/newseventsimages?p_image_type=SMALL&p_image_id=20429
+ 2921.717 |  4076.693 |  1154.976 | http://www3.imperial.ac.uk/newseventsimages?p_image_type=SMALL&p_image_id=21442
+ 3000.221 |  4193.471 |  1193.250 | http://t10000.u1393788400556.s995750143.i894942.v10i.r4.td.labs.apnic.net/1x1.png?t10000.u1393788400556.s995750143.i894942.v10i.r4.td
+ 3006.742 |  4203.342 |  1196.600 | http://t10000.u1393788400556.s995750143.i894942.v10i.rd.t6.labs.apnic.net/1x1.png?t10000.u1393788400556.s995750143.i894942.v10i.rd.t6
+ 3520.915 |  4291.681 |   770.766 | https://www.imperial.ac.uk/imedia/plugins/overlay/overlay.css
+ 3521.859 |  4325.392 |   803.533 | https://www.imperial.ac.uk/imedia/plugins/overlay/overlay.js
+ 3002.642 |  4789.397 |  1786.755 | http://t10000.u1393788400556.s995750143.i894942.v10i.rd.td.labs.apnic.net/1x1.png?t10000.u1393788400556.s995750143.i894942.v10i.rd.td
+</transactions>
+
+<responses>
+status       | mime_type       | charset | url -> redirect_url
+       Found |       text/html | iso-8859-1 | http://www.doc.ic.ac.uk/ -> http://www3.imperial.ac.uk/computing/
+          OK | text/javascript |   utf-8 | http://www.google.com/jsapi -> nil
+          OK |        text/css |         | http://www3.imperial.ac.uk/2007templates/css/colorslavea.css -> nil
+          OK |       text/html |   utf-8 | http://www3.imperial.ac.uk/computing/ -> nil
+          OK |        text/css |         | http://www3.imperial.ac.uk/2007templates/css/old.css -> nil
+          OK |        text/css |         | http://www3.imperial.ac.uk/2007templates/css/print.css -> nil
+          OK |      text/plain | us-ascii | http://datejs.googlecode.com/files/date.js -> nil
+          OK |        text/css |         | http://www3.imperial.ac.uk/2007templates/css/pwp_prod.css -> nil
+          OK |       image/png |         | http://icwww.cc.ic.ac.uk/imedia/general_graphics/landpageslideshow/right_pagination_arrow_on.png -> nil
+          OK |        text/css |   utf-8 | http://www3.imperial.ac.uk/portal/pls/portallive/PORTALLIVE.wwv_setting.render_custom_css?p_bg_color=FFFFFF&p_is_bidi=0&p_version=10.1.4.2.0.197 -> nil
+Moved Permanently |       text/html | iso-8859-1 | http://www2.imperial.ac.uk/utils/applications/header_showcase/js/main.js -> http://wwwf.imperial.ac.uk/utils/applications/header_showcase/js/main.js
+          OK |        text/css |         | http://www3.imperial.ac.uk/2007templates/css/site.css -> nil
+Moved Permanently |       text/html | iso-8859-1 | http://www2.imperial.ac.uk/utils/applications/header_showcase/css/screen.css -> http://wwwf.imperial.ac.uk/utils/applications/header_showcase/css/screen.css
+          OK |      text/plain |         | http://www3.imperial.ac.uk/2007templates/js/flashvideo.vbs -> nil
+          OK |       image/png |         | http://icwww.cc.ic.ac.uk/imedia/general_graphics/landpageslideshow/left_pagination_arrow_on.png -> nil
+          OK |        text/css |         | http://www3.imperial.ac.uk/2007templates/css/content.css -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/logo_imperial_college_london.png -> nil
+          OK | application/x-javascript |         | http://www3.imperial.ac.uk/2007templates/js/global.js -> nil
+          OK | application/x-javascript |         | http://www3.imperial.ac.uk/2007templates/js/cufon-yui.js -> nil
+          OK | application/x-javascript |         | http://www3.imperial.ac.uk/2007templates/js/MetaBook-Roman_400_open.font.js -> nil
+          OK | application/x-javascript |         | http://www3.imperial.ac.uk/2007templates/js/jquery.js -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/submit_search.png -> nil
+          OK | application/x-javascript |         | http://www3.imperial.ac.uk/portal/pls/portallive/PORTALLIVE.wwsbr_javascript.page_js?p_language=us&p_version=10.1.4.2.0.197 -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/bullet_white_arrow.png -> nil
+          OK | application/x-javascript |         | http://wwwf.imperial.ac.uk/utils/applications/header_showcase/js/main.js -> nil
+          OK |        text/css |         | http://wwwf.imperial.ac.uk/utils/applications/header_showcase/css/screen.css -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/icon_delicious.gif -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/submit_send_email.gif -> nil
+          OK | text/javascript |         | http://www.google-analytics.com/ga.js -> nil
+          OK | text/javascript |   utf-8 | http://www.google.com/uds/?file=feeds&v=1 -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/twitter.gif -> nil
+          OK | text/javascript |         | http://www.google-analytics.com/plugins/ga/inpage_linkid.js -> nil
+          OK |        text/css |   utf-8 | http://www.google.com/uds/api/feeds/1.0/482f2817cdf8982edf2e5669f9e3a627/default+en.css -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/icon_digg.png -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/icon_stumbleupon.gif -> nil
+          OK | application/x-javascript |   utf-8 | http://www.google.com/uds/api/feeds/1.0/482f2817cdf8982edf2e5669f9e3a627/default+en.I.js -> nil
+          OK |       image/gif |         | http://www.google-analytics.com/__utm.gif?utmwv=5.4.7&utms=1&utmn=1316962534&utmhn=www3.imperial.ac.uk&utmcs=UTF-8&utmsr=1024x768&utmvp=785x585&utmsc=16-bit&utmul=en-us&utmje=0&utmfl=-&utmdt=Computing&utmhid=1865112759&utmr=-&utmp=%2Fcomputing%2F&utmht=1393788400084&utmac=UA-2035562-1&utmcc=__utma%3D168090937.1834775097.1393788400.1393788400.1393788400.1%3B%2B__utmz%3D168090937.1393788400.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmu=qjAAAC~ -> nil
+          OK | text/javascript |   utf-8 | http://www.google.com/uds/Gfeeds?callback=google.feeds.Feed.RawCompletion&context=1&num=3&hl=en&output=xml&q=http%3A%2F%2Fwww3.imperial.ac.uk%2Fimperialnewsevents%2Fnewssummary%3Fs%3D177352878&key=notsupplied&v=1.0&nocache=1393788400129 -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/facebook.gif -> nil
+          OK | application/x-javascript |         | http://www3.imperial.ac.uk/2007templates/js/menu_footer.js -> nil
+          OK |        text/css |         | http://www3.imperial.ac.uk/2007templates/css/fontfix.css -> nil
+          OK | text/javascript |   utf-8 | http://www.google.com/uds/Gfeeds?callback=google.feeds.Feed.RawCompletion&context=0&num=3&hl=en&output=xml&q=http%3A%2F%2Fwww3.imperial.ac.uk%2Fimperialnewsevents%2Feventsfront%3Fpid%3D5591_177353454_5591_177343951_177343951&key=notsupplied&v=1.0&nocache=1393788400128 -> nil
+          OK | application/javascript |         | http://labs.apnic.net/ipprototest.js -> nil
+             |                 |         | http://[2401:2000:6660::f003]/1x1.png?t10000.u1393788400556.s995750143.i894942.v10i.v6lit -> nil
+          OK |                 |         | http://www3.imperial.ac.uk/icimages?p_imgid=402408 -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/bullet_home_link.gif -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/header_bar_bg.png -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/search_area_bg.png -> nil
+          OK |                 |         | http://www3.imperial.ac.uk/icimages?p_imgid=398957 -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/search_left_border_bg.png -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/search_divider_bg.png -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/icon_find_people.png -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/pls/portallive/docs/1/65329697.GIF -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/audience_nav_right_border_bg.png -> nil
+             |                 |         | http://t10000.u1393788400556.s995750143.i894942.v10i.r6.td.labs.apnic.net/1x1.png?t10000.u1393788400556.s995750143.i894942.v10i.r6.td -> nil
+          OK |                 |         | http://www3.imperial.ac.uk/icimages?p_imgid=401063 -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/bullet_audience_nav.png -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/audience_nav_divider_bg.png -> nil
+          OK |      image/jpeg |         | http://www3.imperial.ac.uk/2007templates/images/content_area_bg.jpg -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/ca_left_bg.gif -> nil
+          OK |        text/css |         | http://www.imperial.ac.uk/imedia/plugins/cycle/cycle.css -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/ca_right_bg.gif -> nil
+Moved Permanently |       text/html |   utf-8 | http://www.imperial.ac.uk/imedia/plugins/overlay/overlay.css -> https://www.imperial.ac.uk/imedia/plugins/overlay/overlay.css
+Moved Permanently |       text/html |   utf-8 | http://www.imperial.ac.uk/imedia/plugins/overlay/overlay.js -> https://www.imperial.ac.uk/imedia/plugins/overlay/overlay.js
+          OK |      image/jpeg |         | http://www3.imperial.ac.uk/2007templates/images/ca_top_left_bg.jpg -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/ca_top_right_bg.png -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/ca_bot_left_bg.gif -> nil
+          OK | application/x-javascript |         | http://www.imperial.ac.uk/imedia/plugins/cycle/cycle.js -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/ca_bot_right_bg.gif -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/images/pobtrans.gif -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/bullet.gif -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/photo_caption_bg.png -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/bullet_col.gif -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/dotted_line_bg.gif -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/h2_sub_content_bg.gif -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/bullet_sub_content.gif -> nil
+          OK |       image/png |         | http://www3.imperial.ac.uk/2007templates/images/quick_info_block_bg.png -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/icons/icon_bw_print.gif -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/icons/icon_bw_mail.gif -> nil
+          OK |                 |         | http://www3.imperial.ac.uk/icimages?p_imgid=23246 -> nil
+          OK |      image/jpeg |         | http://www3.imperial.ac.uk/newseventsimages?p_image_type=SMALL&p_image_id=21446 -> nil
+          OK |      image/jpeg |         | http://www3.imperial.ac.uk/newseventsimages?p_image_type=SMALL&p_image_id=21371 -> nil
+          OK |      image/jpeg |         | http://www3.imperial.ac.uk/newseventsimages?p_image_type=SMALL&p_image_id=21182 -> nil
+          OK |       image/gif |         | http://www3.imperial.ac.uk/2007templates/images/bullet_footer_nav.gif -> nil
+          OK |      image/jpeg |         | http://www3.imperial.ac.uk/newseventsimages?p_image_type=SMALL&p_image_id=21196 -> nil
+          OK |      image/jpeg |         | http://www3.imperial.ac.uk/newseventsimages?p_image_type=SMALL&p_image_id=20429 -> nil
+          OK |      image/jpeg |         | http://www3.imperial.ac.uk/newseventsimages?p_image_type=SMALL&p_image_id=21442 -> nil
+          OK |       image/png |         | http://t10000.u1393788400556.s995750143.i894942.v10i.r4.td.labs.apnic.net/1x1.png?t10000.u1393788400556.s995750143.i894942.v10i.r4.td -> nil
+          OK |       image/png |         | http://t10000.u1393788400556.s995750143.i894942.v10i.rd.t6.labs.apnic.net/1x1.png?t10000.u1393788400556.s995750143.i894942.v10i.rd.t6 -> nil
+          OK |        text/css |         | https://www.imperial.ac.uk/imedia/plugins/overlay/overlay.css -> nil
+          OK | application/x-javascript |         | https://www.imperial.ac.uk/imedia/plugins/overlay/overlay.js -> nil
+          OK |       image/png |         | http://t10000.u1393788400556.s995750143.i894942.v10i.rd.td.labs.apnic.net/1x1.png?t10000.u1393788400556.s995750143.i894942.v10i.rd.td -> nil
+</responses>
+
+<queries>
+Collections of histograms for DNS.
+Histogram: AsyncDNS.HaveDnsConfig recorded 13 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (13 = 100.0%)
+1  ... 
+
+Histogram: DNS.AttemptDiscarded recorded 14 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (14 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: DNS.AttemptFailDuration recorded 1 samples, average = 324.0 (flags = 0x1)
+0    ... 
+322  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+372  ... 
+
+Histogram: DNS.AttemptFailure recorded 1 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: DNS.AttemptSuccess recorded 13 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (13 = 100.0%) {0.0%}
+2  ... 
+
+Histogram: DNS.AttemptSuccessDuration recorded 13 samples, average = 236.5 (flags = 0x1)
+0     ... 
+4     ------------------------------------------------------------------------O (1 = 7.7%) {0.0%}
+5     ... 
+28    ------------------O                                                       (1 = 7.7%) {7.7%}
+32    --------------O                                                           (1 = 7.7%) {15.4%}
+37    ... 
+50    --------------O                                                           (1 = 7.7%) {23.1%}
+58    ... 
+77    --------------O                                                           (1 = 7.7%) {30.8%}
+89    ... 
+158   -----------------------------O                                            (2 = 15.4%) {38.5%}
+182   -----------------------------O                                            (2 = 15.4%) {53.8%}
+210   O                                                                         (0 = 0.0%) {69.2%}
+242   -----------------------------O                                            (2 = 15.4%) {69.2%}
+279   --------------O                                                           (1 = 7.7%) {84.6%}
+322   ... 
+1169  --------------O                                                           (1 = 7.7%) {92.3%}
+1349  ... 
+
+Histogram: DNS.AttemptTimeSavedByRetry recorded 14 samples, average = 57256008.0 (flags = 0x1)
+0        ... 
+3600000  ------------------------------------------------------------------------O (14 = 100.0%) {0.0%}
+
+Histogram: DNS.JobQueueTime recorded 14 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (14 = 100.0%)
+1  ... 
+
+Histogram: DNS.JobQueueTimeAfterChange recorded 14 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (14 = 100.0%)
+1  ... 
+
+Histogram: DNS.JobQueueTimeAfterChange_LOWEST recorded 14 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (14 = 100.0%)
+1  ... 
+
+Histogram: DNS.JobQueueTime_LOWEST recorded 14 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (14 = 100.0%)
+1  ... 
+
+Histogram: DNS.ResolveCategory recorded 14 samples, average = 0.1 (flags = 0x1)
+0  ------------------------------------------------------------------------O (13 = 92.9%)
+1  ------O                                                                   (1 = 7.1%) {92.9%}
+2  ... 
+
+Histogram: DNS.ResolveFail recorded 1 samples, average = 324.0 (flags = 0x1)
+0    ... 
+322  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+372  ... 
+
+Histogram: DNS.ResolveFail_FAMILY_UNSPEC recorded 1 samples, average = 324.0 (flags = 0x1)
+0    ... 
+322  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+372  ... 
+
+Histogram: DNS.ResolveSuccess recorded 13 samples, average = 236.5 (flags = 0x1)
+0     ... 
+4     ------------------------------------------------------------------------O (1 = 7.7%) {0.0%}
+5     ... 
+28    ------------------O                                                       (1 = 7.7%) {7.7%}
+32    --------------O                                                           (1 = 7.7%) {15.4%}
+37    ... 
+50    --------------O                                                           (1 = 7.7%) {23.1%}
+58    ... 
+77    --------------O                                                           (1 = 7.7%) {30.8%}
+89    ... 
+158   -----------------------------O                                            (2 = 15.4%) {38.5%}
+182   -----------------------------O                                            (2 = 15.4%) {53.8%}
+210   O                                                                         (0 = 0.0%) {69.2%}
+242   -----------------------------O                                            (2 = 15.4%) {69.2%}
+279   --------------O                                                           (1 = 7.7%) {84.6%}
+322   ... 
+1169  --------------O                                                           (1 = 7.7%) {92.3%}
+1349  ... 
+
+Histogram: DNS.ResolveSuccess_FAMILY_UNSPEC recorded 13 samples, average = 236.5 (flags = 0x1)
+0     ... 
+4     ------------------------------------------------------------------------O (1 = 7.7%) {0.0%}
+5     ... 
+28    ------------------O                                                       (1 = 7.7%) {7.7%}
+32    --------------O                                                           (1 = 7.7%) {15.4%}
+37    ... 
+50    --------------O                                                           (1 = 7.7%) {23.1%}
+58    ... 
+77    --------------O                                                           (1 = 7.7%) {30.8%}
+89    ... 
+158   -----------------------------O                                            (2 = 15.4%) {38.5%}
+182   -----------------------------O                                            (2 = 15.4%) {53.8%}
+210   O                                                                         (0 = 0.0%) {69.2%}
+242   -----------------------------O                                            (2 = 15.4%) {69.2%}
+279   --------------O                                                           (1 = 7.7%) {84.6%}
+322   ... 
+1169  --------------O                                                           (1 = 7.7%) {92.3%}
+1349  ... 
+
+Histogram: DNS.TotalTime recorded 33 samples, average = 145.9 (flags = 0x1)
+0     ------------------------------------------------------------------------O (13 = 39.4%)
+1     ... 
+4     ------O                                                                   (1 = 3.0%) {39.4%}
+5     ... 
+28    -O                                                                        (1 = 3.0%) {42.4%}
+32    -O                                                                        (1 = 3.0%) {45.5%}
+37    ... 
+50    -O                                                                        (1 = 3.0%) {48.5%}
+58    ... 
+77    -O                                                                        (1 = 3.0%) {51.5%}
+89    ... 
+158   ---O                                                                      (3 = 9.1%) {54.5%}
+182   ----O                                                                     (4 = 12.1%) {63.6%}
+210   O                                                                         (0 = 0.0%) {75.8%}
+242   --O                                                                       (2 = 6.1%) {75.8%}
+279   ----O                                                                     (4 = 12.1%) {81.8%}
+322   -O                                                                        (1 = 3.0%) {93.9%}
+372   ... 
+1169  -O                                                                        (1 = 3.0%) {97.0%}
+1349  ... 
+
+
+Collections of histograms for Net.
+Histogram: Net.CertVerifier_Job_Latency recorded 1 samples, average = 5.0 (flags = 0x1)
+0  ... 
+5  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+6  ... 
+
+Histogram: Net.Compress.NoProxy.BytesAfterCompression recorded 24 samples, average = 19469.8 (flags = 0x1)
+0       ... 
+540     ------------------------------------O                                     (1 = 4.2%) {0.0%}
+584     ------------------------------------O                                     (1 = 4.2%) {4.2%}
+631     ... 
+1004    ------------------------------------O                                     (1 = 4.2%) {8.3%}
+1085    ------------------------------------O                                     (1 = 4.2%) {12.5%}
+1173    ... 
+2547    ------------------------------------O                                     (1 = 4.2%) {16.7%}
+2752    ------------------------------------------------------------------------O (2 = 8.3%) {20.8%}
+2974    ... 
+3473    ------------------------------------O                                     (1 = 4.2%) {29.2%}
+3753    O                                                                         (0 = 0.0%) {33.3%}
+4056    ------------------------------------O                                     (1 = 4.2%) {33.3%}
+4383    O                                                                         (0 = 0.0%) {37.5%}
+4737    ------------------------------------O                                     (1 = 4.2%) {37.5%}
+5119    ... 
+7544    ------------------------------------O                                     (1 = 4.2%) {41.7%}
+8152    ------------------------------------O                                     (1 = 4.2%) {45.8%}
+8810    ... 
+10289   ------------------------------------O                                     (1 = 4.2%) {50.0%}
+11119   ------------------------------------O                                     (1 = 4.2%) {54.2%}
+12016   ... 
+17709   ------------------------------------O                                     (1 = 4.2%) {58.3%}
+19137   O                                                                         (0 = 0.0%) {62.5%}
+20681   ------------------------------------O                                     (1 = 4.2%) {62.5%}
+22349   O                                                                         (0 = 0.0%) {66.7%}
+24152   ------------------------------------O                                     (1 = 4.2%) {66.7%}
+26100   ------------------------------------O                                     (1 = 4.2%) {70.8%}
+28205   ------------------------------------O                                     (1 = 4.2%) {75.0%}
+30480   ------------------------------------O                                     (1 = 4.2%) {79.2%}
+32938   ... 
+38466   ------------------------------------O                                     (1 = 4.2%) {83.3%}
+41569   O                                                                         (0 = 0.0%) {87.5%}
+44922   ------------------------------------O                                     (1 = 4.2%) {87.5%}
+48545   O                                                                         (0 = 0.0%) {91.7%}
+52461   ------------------------------------O                                     (1 = 4.2%) {91.7%}
+56692   ... 
+105446  ------------------------------------O                                     (1 = 4.2%) {95.8%}
+113951  ... 
+
+Histogram: Net.Compress.NoProxy.BytesBeforeCompression recorded 24 samples, average = 5721.2 (flags = 0x1)
+0      ------------------------------------------------------------------------O (2 = 8.3%)
+500    O                                                                         (0 = 0.0%) {8.3%}
+540    ------------------------------------O                                     (1 = 4.2%) {8.3%}
+584    ... 
+682    ------------------------------------------------------------------------O (2 = 8.3%) {12.5%}
+737    ------------------------------------O                                     (1 = 4.2%) {20.8%}
+796    O                                                                         (0 = 0.0%) {25.0%}
+860    ------------------------------------------------------------------------O (2 = 8.3%) {25.0%}
+929    ... 
+1085   ------------------------------------O                                     (1 = 4.2%) {33.3%}
+1173   ------------------------------------O                                     (1 = 4.2%) {37.5%}
+1268   O                                                                         (0 = 0.0%) {41.7%}
+1370   ------------------------------------O                                     (1 = 4.2%) {41.7%}
+1480   ... 
+1728   ------------------------------------O                                     (1 = 4.2%) {45.8%}
+1867   ... 
+3214   ------------------------------------O                                     (1 = 4.2%) {50.0%}
+3473   ------------------------------------O                                     (1 = 4.2%) {54.2%}
+3753   ... 
+5978   ------------------------------------O                                     (1 = 4.2%) {58.3%}
+6460   O                                                                         (0 = 0.0%) {62.5%}
+6981   ------------------------------------------------------------------------O (2 = 8.3%) {62.5%}
+7544   ------------------------------------------------------------------------O (2 = 8.3%) {70.8%}
+8152   ... 
+9521   ------------------------------------O                                     (1 = 4.2%) {79.2%}
+10289  ... 
+15164  ------------------------------------------------------------------------O (2 = 8.3%) {83.3%}
+16387  ... 
+20681  ------------------------------------------------------------------------O (2 = 8.3%) {91.7%}
+22349  ... 
+
+Histogram: Net.Compress.NoProxy.ShouldHaveBeenCompressed recorded 6 samples, average = 7727.8 (flags = 0x1)
+0      ------------------------------------------------------------------------O (1 = 16.7%)
+500    ... 
+1599   ------------------------------------------------------------------------O (1 = 16.7%) {16.7%}
+1728   ... 
+5532   ------------------------------------------------------------------------O (1 = 16.7%) {33.3%}
+5978   ------------------------------------------------------------------------O (1 = 16.7%) {50.0%}
+6460   ------------------------------------------------------------------------O (1 = 16.7%) {66.7%}
+6981   ... 
+24152  ------------------------------------------------------------------------O (1 = 16.7%) {83.3%}
+26100  ... 
+
+Histogram: Net.Compress.SSL.BytesAfterCompression recorded 2 samples, average = 1459.5 (flags = 0x1)
+0     ------------------------------------------------------------------------O (1 = 50.0%)
+500   ... 
+2357  ------------------------------------------------------------------------O (1 = 50.0%) {50.0%}
+2547  ... 
+
+Histogram: Net.Compress.SSL.BytesBeforeCompression recorded 2 samples, average = 757.5 (flags = 0x1)
+0     ------------------------------------------------------------------------O (1 = 50.0%)
+500   ... 
+1085  ------------------------------------------------------------------------O (1 = 50.0%) {50.0%}
+1173  ... 
+
+Histogram: Net.ConnectionTypeCount3 recorded 62 samples, average = 3.4 (flags = 0x1)
+0   ------------------------------------------------------------------------O (31 = 50.0%)
+1   -----O                                                                    (2 = 3.2%) {50.0%}
+2   ... 
+7   ---------------------------------------------------------------O          (27 = 43.5%) {53.2%}
+8   ... 
+11  -----O                                                                    (2 = 3.2%) {96.8%}
+12  ... 
+
+Histogram: Net.ConnectionUsedSSLVersionFallback recorded 2 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (2 = 100.0%)
+1  ... 
+
+Histogram: Net.DNS_Resolution_And_TCP_Connection_Latency2 recorded 31 samples, average = 311.7 (flags = 0x1)
+0     ... 
+29    -------------O                                                            (1 = 3.2%) {0.0%}
+33    ... 
+61    ---------------------O                                                    (2 = 6.5%) {3.2%}
+69    ... 
+88    ----------O                                                               (1 = 3.2%) {9.7%}
+100   ... 
+128   ---------------------O                                                    (2 = 6.5%) {12.9%}
+145   -----------------------------------------O                                (4 = 12.9%) {19.4%}
+164   -----------------------------------------O                                (4 = 12.9%) {32.3%}
+186   ----------O                                                               (1 = 3.2%) {45.2%}
+211   ... 
+307   ---------------------O                                                    (2 = 6.5%) {48.4%}
+348   -----------------------------------------O                                (4 = 12.9%) {54.8%}
+394   ------------------------------------------------------------------------O (7 = 22.6%) {67.7%}
+446   O                                                                         (0 = 0.0%) {90.3%}
+505   ---------------------O                                                    (2 = 6.5%) {90.3%}
+572   ... 
+1365  ----------O                                                               (1 = 3.2%) {96.8%}
+1546  ... 
+
+Histogram: Net.HadConnectionType3 recorded 4 samples, average = 4.8 (flags = 0x1)
+0   ------------------------------------------------------------------------O (1 = 25.0%)
+1   ------------------------------------------------------------------------O (1 = 25.0%) {25.0%}
+2   ... 
+7   ------------------------------------------------------------------------O (1 = 25.0%) {50.0%}
+8   ... 
+11  ------------------------------------------------------------------------O (1 = 25.0%) {75.0%}
+12  ... 
+
+Histogram: Net.HttpConnectionLatency recorded 26 samples, average = 367.8 (flags = 0x1)
+0     ... 
+29    ---------------O                                                          (1 = 3.8%) {0.0%}
+33    ... 
+61    ------------------------O                                                 (2 = 7.7%) {3.8%}
+69    ... 
+88    ------------O                                                             (1 = 3.8%) {11.5%}
+100   ... 
+145   ------------------------O                                                 (2 = 7.7%) {15.4%}
+164   ------------------------------------O                                     (3 = 11.5%) {23.1%}
+186   ... 
+307   ------------------------O                                                 (2 = 7.7%) {34.6%}
+348   ------------------------------------------------O                         (4 = 15.4%) {42.3%}
+394   ------------------------------------------------------------------------O (6 = 23.1%) {57.7%}
+446   O                                                                         (0 = 0.0%) {80.8%}
+505   ------------------------O                                                 (2 = 7.7%) {80.8%}
+572   ------------------------O                                                 (2 = 7.7%) {88.5%}
+648   ... 
+1365  ------------O                                                             (1 = 3.8%) {96.2%}
+1546  ... 
+
+Histogram: Net.HttpJob.TotalTime recorded 92 samples, average = 996.3 (flags = 0x1)
+0     O                                                                         (0 = 0.0%)
+1     ------------------O                                                       (1 = 1.1%) {0.0%}
+2     ... 
+68    ----O                                                                     (1 = 1.1%) {1.1%}
+81    ----O                                                                     (1 = 1.1%) {2.2%}
+96    ----O                                                                     (1 = 1.1%) {3.3%}
+114   ----O                                                                     (1 = 1.1%) {4.3%}
+135   ----O                                                                     (1 = 1.1%) {5.4%}
+160   -------O                                                                  (2 = 2.2%) {6.5%}
+190   ----O                                                                     (1 = 1.1%) {8.7%}
+226   ----O                                                                     (1 = 1.1%) {9.8%}
+268   ----O                                                                     (1 = 1.1%) {10.9%}
+318   ------------------O                                                       (5 = 5.4%) {12.0%}
+378   O                                                                         (0 = 0.0%) {17.4%}
+449   ----O                                                                     (1 = 1.1%) {17.4%}
+533   ----------------------O                                                   (6 = 6.5%) {18.5%}
+633   ----------------------O                                                   (6 = 6.5%) {25.0%}
+752   ------------------O                                                       (5 = 5.4%) {31.5%}
+894   --------------------------------O                                         (9 = 9.8%) {37.0%}
+1062  ------------------------------------------------------------------------O (20 = 21.7%) {46.7%}
+1262  ------------------------------------------------------------------------O (20 = 21.7%) {68.5%}
+1500  ------------------O                                                       (5 = 5.4%) {90.2%}
+1782  -----------O                                                              (3 = 3.3%) {95.7%}
+2117  ----O                                                                     (1 = 1.1%) {98.9%}
+2516  ... 
+
+Histogram: Net.HttpJob.TotalTimeCancel recorded 7 samples, average = 452.6 (flags = 0x1)
+0    O                                                                         (0 = 0.0%)
+1    ------------------------------------------------------------------------O (1 = 14.3%) {0.0%}
+2    ... 
+318  -----------------------------O                                            (2 = 28.6%) {14.3%}
+378  ... 
+533  -----------------------------O                                            (2 = 28.6%) {42.9%}
+633  -----------------------------O                                            (2 = 28.6%) {71.4%}
+752  ... 
+
+Histogram: Net.HttpJob.TotalTimeNotCached recorded 90 samples, average = 1014.8 (flags = 0x1)
+0     ... 
+68    ----O                                                                     (1 = 1.1%) {0.0%}
+81    ----O                                                                     (1 = 1.1%) {1.1%}
+96    ----O                                                                     (1 = 1.1%) {2.2%}
+114   ----O                                                                     (1 = 1.1%) {3.3%}
+135   ----O                                                                     (1 = 1.1%) {4.4%}
+160   -------O                                                                  (2 = 2.2%) {5.6%}
+190   ----O                                                                     (1 = 1.1%) {7.8%}
+226   ----O                                                                     (1 = 1.1%) {8.9%}
+268   ----O                                                                     (1 = 1.1%) {10.0%}
+318   --------------O                                                           (4 = 4.4%) {11.1%}
+378   O                                                                         (0 = 0.0%) {15.6%}
+449   ----O                                                                     (1 = 1.1%) {15.6%}
+533   ----------------------O                                                   (6 = 6.7%) {16.7%}
+633   ----------------------O                                                   (6 = 6.7%) {23.3%}
+752   ------------------O                                                       (5 = 5.6%) {30.0%}
+894   --------------------------------O                                         (9 = 10.0%) {35.6%}
+1062  ------------------------------------------------------------------------O (20 = 22.2%) {45.6%}
+1262  ------------------------------------------------------------------------O (20 = 22.2%) {67.8%}
+1500  ------------------O                                                       (5 = 5.6%) {90.0%}
+1782  -----------O                                                              (3 = 3.3%) {95.6%}
+2117  ----O                                                                     (1 = 1.1%) {98.9%}
+2516  ... 
+
+Histogram: Net.HttpJob.TotalTimeSuccess recorded 85 samples, average = 1041.1 (flags = 0x1)
+0     ... 
+68    ----O                                                                     (1 = 1.2%) {0.0%}
+81    ----O                                                                     (1 = 1.2%) {1.2%}
+96    ----O                                                                     (1 = 1.2%) {2.4%}
+114   ----O                                                                     (1 = 1.2%) {3.5%}
+135   ----O                                                                     (1 = 1.2%) {4.7%}
+160   -------O                                                                  (2 = 2.4%) {5.9%}
+190   ----O                                                                     (1 = 1.2%) {8.2%}
+226   ----O                                                                     (1 = 1.2%) {9.4%}
+268   ----O                                                                     (1 = 1.2%) {10.6%}
+318   -----------O                                                              (3 = 3.5%) {11.8%}
+378   O                                                                         (0 = 0.0%) {15.3%}
+449   ----O                                                                     (1 = 1.2%) {15.3%}
+533   --------------O                                                           (4 = 4.7%) {16.5%}
+633   --------------O                                                           (4 = 4.7%) {21.2%}
+752   ------------------O                                                       (5 = 5.9%) {25.9%}
+894   --------------------------------O                                         (9 = 10.6%) {31.8%}
+1062  ------------------------------------------------------------------------O (20 = 23.5%) {42.4%}
+1262  ------------------------------------------------------------------------O (20 = 23.5%) {65.9%}
+1500  ------------------O                                                       (5 = 5.9%) {89.4%}
+1782  -----------O                                                              (3 = 3.5%) {95.3%}
+2117  ----O                                                                     (1 = 1.2%) {98.8%}
+2516  ... 
+
+Histogram: Net.HttpResponseCode recorded 90 samples, average = 205.6 (flags = 0x1)
+0    ... 
+200  ------------------------------------------------------------------------O (85 = 94.4%) {0.0%}
+201  ... 
+301  ------------------------------------------------------------------------O (4 = 4.4%) {94.4%}
+302  ------------------------------------------------------------------------O (1 = 1.1%) {98.9%}
+303  ... 
+
+Histogram: Net.HttpSocketType recorded 91 samples, average = 1.4 (flags = 0x1)
+0  -----------------------------O                                            (26 = 28.6%)
+1  -O                                                                        (1 = 1.1%) {28.6%}
+2  ------------------------------------------------------------------------O (64 = 70.3%) {29.7%}
+3  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.HttpTimeToFirstByte recorded 92 samples, average = 920.3 (flags = 0x1)
+0     ---O                                                                      (1 = 1.1%)
+10    ... 
+61    ---O                                                                      (1 = 1.1%) {1.1%}
+75    -----O                                                                    (2 = 2.2%) {2.2%}
+92    -----O                                                                    (2 = 2.2%) {4.3%}
+113   ---O                                                                      (1 = 1.1%) {6.5%}
+139   ---O                                                                      (1 = 1.1%) {7.6%}
+171   --------O                                                                 (3 = 3.3%) {8.7%}
+210   O                                                                         (0 = 0.0%) {12.0%}
+258   ---O                                                                      (1 = 1.1%) {12.0%}
+317   ------------------O                                                       (7 = 7.6%) {13.0%}
+389   O                                                                         (0 = 0.0%) {20.7%}
+477   ------------------O                                                       (7 = 7.6%) {20.7%}
+585   ------------------O                                                       (7 = 7.6%) {28.3%}
+718   ---------------O                                                          (6 = 6.5%) {35.9%}
+881   ------------------O                                                       (7 = 7.6%) {42.4%}
+1081  ------------------------------------------------------------------------O (28 = 30.4%) {50.0%}
+1326  ---------------------------------------O                                  (15 = 16.3%) {80.4%}
+1627  --------O                                                                 (3 = 3.3%) {96.7%}
+1996  ... 
+
+Histogram: Net.NumDuplicateCookiesInDb recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.OSErrorsForGetAddrinfo_Linux recorded 1 samples, average = 2.0 (flags = 0x1)
+0  ... 
+2  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+3  ... 
+
+Histogram: Net.PreconnectUtilization2 recorded 1 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+Histogram: Net.RenegotiationExtensionSupported recorded 2 samples, average = 1.0 (flags = 0x1)
+0  O                                                                         (0 = 0.0%)
+1  ------------------------------------------------------------------------O (2 = 100.0%) {0.0%}
+2  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.SSLCertVerificationTime recorded 2 samples, average = 2.5 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 50.0%)
+1  ... 
+5  ------------------------------------------------------------------------O (1 = 50.0%) {50.0%}
+6  ... 
+
+Histogram: Net.SSL_Connection_Latency recorded 2 samples, average = 485.0 (flags = 0x1)
+0    ... 
+446  ------------------------------------------------------------------------O (2 = 100.0%) {0.0%}
+505  ... 
+
+Histogram: Net.SSL_Connection_Latency_Full_Handshake recorded 2 samples, average = 485.0 (flags = 0x1)
+0    ... 
+440  ------------------------------------------------------------------------O (1 = 50.0%) {0.0%}
+485  ------------------------------------------------------------------------O (1 = 50.0%) {50.0%}
+535  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket recorded 64 samples, average = 32.5 (flags = 0x1)
+0     ------------------------------------------------------------------------O (57 = 89.1%)
+1     ... 
+5     -O                                                                        (1 = 1.6%) {89.1%}
+6     ... 
+12    -O                                                                        (1 = 1.6%) {90.6%}
+14    ... 
+23    O                                                                         (1 = 1.6%) {92.2%}
+26    O                                                                         (1 = 1.6%) {93.8%}
+29    ... 
+37    O                                                                         (1 = 1.6%) {95.3%}
+42    ... 
+700   O                                                                         (1 = 1.6%) {96.9%}
+788   ... 
+1122  O                                                                         (1 = 1.6%) {98.4%}
+1262  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCP recorded 64 samples, average = 32.5 (flags = 0x1)
+0     ------------------------------------------------------------------------O (57 = 89.1%)
+1     ... 
+5     -O                                                                        (1 = 1.6%) {89.1%}
+6     ... 
+12    -O                                                                        (1 = 1.6%) {90.6%}
+14    ... 
+23    O                                                                         (1 = 1.6%) {92.2%}
+26    O                                                                         (1 = 1.6%) {93.8%}
+29    ... 
+37    O                                                                         (1 = 1.6%) {95.3%}
+42    ... 
+700   O                                                                         (1 = 1.6%) {96.9%}
+788   ... 
+1122  O                                                                         (1 = 1.6%) {98.4%}
+1262  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_ReusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket recorded 1 samples, average = 184.0 (flags = 0x1)
+0    ... 
+171  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+192  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSL2 recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCP recorded 1 samples, average = 184.0 (flags = 0x1)
+0    ... 
+171  ------------------------------------------------------------------------O (1 = 100.0%) {0.0%}
+192  ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketIdleTimeBeforeNextUse_UnusedSocket_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSL2 recorded 2 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (2 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCP recorded 93 samples, average = 2.3 (flags = 0x1)
+0    ------------------------------------------------------------------------O (91 = 97.8%)
+1    ... 
+105  ------------------------------------------------------------------------O (1 = 1.1%) {97.8%}
+106  ... 
+109  ------------------------------------------------------------------------O (1 = 1.1%) {98.9%}
+110  ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketInitErrorCodes_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSL2 recorded 2 samples, average = 626.0 (flags = 0x1)
+0    ... 
+572  ------------------------------------------------------------------------O (2 = 100.0%) {0.0%}
+648  ... 
+
+Histogram: Net.SocketRequestTime_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCP recorded 26 samples, average = 330.4 (flags = 0x1)
+0     ... 
+29    ---------------O                                                          (1 = 3.8%) {0.0%}
+33    ... 
+61    ------------------------O                                                 (2 = 7.7%) {3.8%}
+69    ... 
+88    ------------O                                                             (1 = 3.8%) {11.5%}
+100   ... 
+128   ------------------------O                                                 (2 = 7.7%) {15.4%}
+145   ------------------------O                                                 (2 = 7.7%) {23.1%}
+164   ------------------------------------O                                     (3 = 11.5%) {30.8%}
+186   ... 
+307   ------------------------O                                                 (2 = 7.7%) {42.3%}
+348   ------------------------------------------------O                         (4 = 15.4%) {50.0%}
+394   ------------------------------------------------------------------------O (6 = 23.1%) {65.4%}
+446   O                                                                         (0 = 0.0%) {88.5%}
+505   ------------------------O                                                 (2 = 7.7%) {88.5%}
+572   ... 
+1365  ------------O                                                             (1 = 3.8%) {96.2%}
+1546  ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketRequestTime_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_HTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SOCK recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSL2 recorded 2 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (2 = 100.0%)
+1  ... 
+
+Histogram: Net.SocketType_SSLForProxies recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_SSLforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCP recorded 91 samples, average = 1.4 (flags = 0x1)
+0  -----------------------------O                                            (26 = 28.6%)
+1  -O                                                                        (1 = 1.1%) {28.6%}
+2  ------------------------------------------------------------------------O (64 = 70.3%) {29.7%}
+3  O                                                                         (0 = 0.0%) {100.0%}
+
+Histogram: Net.SocketType_TCPforHTTPProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforHTTPSProxy recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.SocketType_TCPforSOCKS recorded 0 samples (flags = 0x1)
+0 ... 
+
+Histogram: Net.TCP_Connection_Latency recorded 31 samples, average = 166.4 (flags = 0x1)
+0    ... 
+26   -------------O                                                            (1 = 3.2%) {0.0%}
+29   ----------O                                                               (1 = 3.2%) {3.2%}
+33   ----------O                                                               (1 = 3.2%) {6.5%}
+37   ... 
+61   --------O                                                                 (1 = 3.2%) {9.7%}
+69   ... 
+128  ------------------------O                                                 (3 = 9.7%) {12.9%}
+145  ------------------------------------------------------------------------O (9 = 29.0%) {22.6%}
+164  ----------------------------------------O                                 (5 = 16.1%) {51.6%}
+186  ------------------------O                                                 (3 = 9.7%) {67.7%}
+211  ----------------------------------------O                                 (5 = 16.1%) {77.4%}
+239  --------O                                                                 (1 = 3.2%) {93.5%}
+271  ... 
+394  --------O                                                                 (1 = 3.2%) {96.8%}
+446  ... 
+
+Histogram: Net.TCP_Connection_Latency_IPv4_No_Race recorded 31 samples, average = 166.4 (flags = 0x1)
+0    ... 
+26   -------------O                                                            (1 = 3.2%) {0.0%}
+29   ----------O                                                               (1 = 3.2%) {3.2%}
+33   ----------O                                                               (1 = 3.2%) {6.5%}
+37   ... 
+61   --------O                                                                 (1 = 3.2%) {9.7%}
+69   ... 
+128  ------------------------O                                                 (3 = 9.7%) {12.9%}
+145  ------------------------------------------------------------------------O (9 = 29.0%) {22.6%}
+164  ----------------------------------------O                                 (5 = 16.1%) {51.6%}
+186  ------------------------O                                                 (3 = 9.7%) {67.7%}
+211  ----------------------------------------O                                 (5 = 16.1%) {77.4%}
+239  --------O                                                                 (1 = 3.2%) {93.5%}
+271  ... 
+394  --------O                                                                 (1 = 3.2%) {96.8%}
+446  ... 
+
+Histogram: Net.Transaction_Latency_Total recorded 85 samples, average = 1039.4 (flags = 0x1)
+0     ... 
+69    ----O                                                                     (1 = 1.2%) {0.0%}
+78    O                                                                         (0 = 0.0%) {1.2%}
+88    --------O                                                                 (2 = 2.4%) {1.2%}
+100   O                                                                         (0 = 0.0%) {3.5%}
+113   ----O                                                                     (1 = 1.2%) {3.5%}
+128   O                                                                         (0 = 0.0%) {4.7%}
+145   ----O                                                                     (1 = 1.2%) {4.7%}
+164   --------O                                                                 (2 = 2.4%) {5.9%}
+186   ----O                                                                     (1 = 1.2%) {8.2%}
+211   O                                                                         (0 = 0.0%) {9.4%}
+239   ----O                                                                     (1 = 1.2%) {9.4%}
+271   O                                                                         (0 = 0.0%) {10.6%}
+307   ------------O                                                             (3 = 3.5%) {10.6%}
+348   ----O                                                                     (1 = 1.2%) {14.1%}
+394   ... 
+505   --------O                                                                 (2 = 2.4%) {15.3%}
+572   ------------O                                                             (3 = 3.5%) {17.6%}
+648   ----------------O                                                         (4 = 4.7%) {21.2%}
+734   ------------O                                                             (3 = 3.5%) {25.9%}
+831   ------------O                                                             (3 = 3.5%) {29.4%}
+941   --------------------------------O                                         (8 = 9.4%) {32.9%}
+1065  ------------------------------------------------------------------------O (18 = 21.2%) {42.4%}
+1206  ------------------------------------------------O                         (12 = 14.1%) {63.5%}
+1365  ----------------------------------------O                                 (10 = 11.8%) {77.6%}
+1546  --------------------O                                                     (5 = 5.9%) {89.4%}
+1750  --------O                                                                 (2 = 2.4%) {95.3%}
+1981  ----O                                                                     (1 = 1.2%) {97.6%}
+2243  ----O                                                                     (1 = 1.2%) {98.8%}
+2540  ... 
+
+Histogram: Net.Transaction_Latency_Total_New_Connection recorded 21 samples, average = 700.3 (flags = 0x1)
+0     ... 
+88    ------------------O                                                       (1 = 4.8%) {0.0%}
+100   O                                                                         (0 = 0.0%) {4.8%}
+113   ------------------O                                                       (1 = 4.8%) {4.8%}
+128   ... 
+239   ------------------O                                                       (1 = 4.8%) {9.5%}
+271   O                                                                         (0 = 0.0%) {14.3%}
+307   ------------------------------------O                                     (2 = 9.5%) {14.3%}
+348   ... 
+505   ------------------O                                                       (1 = 4.8%) {23.8%}
+572   ------------------------------------------------------O                   (3 = 14.3%) {28.6%}
+648   ------------------------------------------------------------------------O (4 = 19.0%) {42.9%}
+734   ------------------------------------O                                     (2 = 9.5%) {61.9%}
+831   ------------------------------------O                                     (2 = 9.5%) {71.4%}
+941   ------------------O                                                       (1 = 4.8%) {81.0%}
+1065  ------------------------------------O                                     (2 = 9.5%) {85.7%}
+1206  ... 
+1750  ------------------O                                                       (1 = 4.8%) {95.2%}
+1981  ... 
+
+Histogram: Net.Transaction_Latency_b recorded 85 samples, average = 275.3 (flags = 0x1)
+0     ... 
+54    -----O                                                                    (2 = 2.4%) {0.0%}
+61    O                                                                         (0 = 0.0%) {2.4%}
+69    ---O                                                                      (1 = 1.2%) {2.4%}
+78    O                                                                         (0 = 0.0%) {3.5%}
+88    ---O                                                                      (1 = 1.2%) {3.5%}
+100   ... 
+145   ------------------------------------------------------------------------O (27 = 31.8%) {4.7%}
+164   ----------------------------------------O                                 (15 = 17.6%) {36.5%}
+186   ----------------O                                                         (6 = 7.1%) {54.1%}
+211   ----------------O                                                         (6 = 7.1%) {61.2%}
+239   --------O                                                                 (3 = 3.5%) {68.2%}
+271   ---------------------O                                                    (8 = 9.4%) {71.8%}
+307   --------O                                                                 (3 = 3.5%) {81.2%}
+348   ---O                                                                      (1 = 1.2%) {84.7%}
+394   ... 
+505   --------O                                                                 (3 = 3.5%) {85.9%}
+572   -----O                                                                    (2 = 2.4%) {89.4%}
+648   -----O                                                                    (2 = 2.4%) {91.8%}
+734   -----O                                                                    (2 = 2.4%) {94.1%}
+831   O                                                                         (0 = 0.0%) {96.5%}
+941   ---O                                                                      (1 = 1.2%) {96.5%}
+1065  ---O                                                         [17570:17575:57258771816:FATAL:url_request_context.cc(121)] Check failed: false. Leaked 1 URLRequest(s). First URL: http://www3.imperial.ac.uk/PWCLogin/midcookies.jsp?_=1393788402354.
+             (1 = 1.2%) {97.6%}
+1206  O                                                                         (0 = 0.0%) {98.8%}
+1365  ---O                                                                      (1 = 1.2%) {98.8%}
+1546  ... 
+
+Histogram: Net.UnspecResolvedIPv6 recorded 1 samples, average = 0.0 (flags = 0x1)
+0  ------------------------------------------------------------------------O (1 = 100.0%)
+1  ... 
+
+
+</queries>
+Received signal 6
+ [0x000000531f1e] base::debug::StackTrace::StackTrace()
+ [0x000000532418] base::debug::(anonymous namespace)::StackDumpSignalHandler()
+ [0x7f8c31c89bd0] <unknown>
+ [0x7f8c30cb3037] gsignal
+ [0x7f8c30cb6698] abort
+ [0x00000056c349] base::debug::BreakDebugger()
+ [0x0000005405cd] logging::LogMessage::~LogMessage()
+ [0x000001c2eb7e] net::URLRequestContext::AssertNoURLRequests()
+ [0x000001c2ebc8] net::URLRequestContext::~URLRequestContext()
+ [0x000001aec899] TestShellRequestContext::~TestShellRequestContext()
+ [0x000001ae3c1f] (anonymous namespace)::IOThread::CleanUp()
+ [0x00000055eafd] base::Thread::ThreadMain()
+ [0x00000055e361] base::(anonymous namespace)::ThreadFunc()
+ [0x7f8c31c81f8e] start_thread
+ [0x7f8c30d75e1d] clone
+  r8: 000000000204024d  r9: 00007f8c2a4dfb26 r10: 0000000000000008 r11: 0000000000000202
+ r12: 0000000000000000 r13: 00007f8c3103e848 r14: 00007fff92442aa0 r15: 0000000000001000
+  di: 00000000000044a2  si: 00000000000044a7  bp: 00007f8c318614c0  bx: 00007f8c2a4e0620
+  dx: 0000000000000006  ax: 0000000000000000  cx: ffffffffffffffff  sp: 00007f8c2a4dfdc8
+  ip: 00007f8c30cb3037 efl: 0000000000000202 cgf: 0000000000000033 erf: 0000000000000000
+ trp: 0000000000000000 msk: 0000000000000000 cr2: 0000000000000000

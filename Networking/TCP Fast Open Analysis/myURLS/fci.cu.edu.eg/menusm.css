@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+
+ul.menusm { font-size:14px; line-height:14px;}
+
+/* DESIGN TOPNAV (mainmenu) */
+/* level 1 */
+.topnav ul { margin:0; padding:2px 0; float:right; width:auto; height:40px; }
+.topnav ul li { margin:0 4px; padding:10px 0; float:left;}
+.topnav ul li a {  margin:0; padding:10px 20px; color:#fff; text-decoration:none; }
+.topnav ul li a.a_hover_main {color:#fff; padding:10px 20px; background:#0d5881;}
+.topnav ul li.li_hover_main { }
+.topnav ul li.current_page_item { }					/* active item first level */
+a.top_level {}
+.topnav ul li.current_page_item a {color:#fff; text-decoration:none; background:#0d5881;}
+.topnav ul li ul li a.a_hover_main { color:#923232; text-decoration:none; background: #000000;}						/* on hover */
+
+/* level 2 */
+.topnav ul li ul { margin:0; padding:0; width:200px; height:auto; top:35px;  background:#0d5881;  }			/* position of submenu */
+.topnav ul li ul li { margin:0; padding:0; float:none;}
+.topnav ul li ul li a {  background:none; display:block; margin:0; padding:10px 20px; color:#fff; text-decoration:none;}
+.topnav ul li ul li a.have_submenu { }																/* if item have submenu */
+.topnav ul li ul li a:hover,
+.topnav ul li ul li a.have_submenu_hover { color:#0d5881 ; text-decoration:none; background:#f3f3f3;}
+
+/* level 3 */
+.topnav ul li ul li ul { top:-2px; left:170px;}								/* position of sub-submenu */
+
+/* DESIGN NAV1 (categories) */
+/* level 1 */
+#nav1 ul { margin:0; padding:0; float:left; width:auto;}
+#nav1 ul li { float:left; padding:0;}
+#nav1 ul li a.a_hover_main { color:#fff; text-decoration:underline;}
+#nav1 ul li a { display:block; padding:14px 40px 14px 0; color:#fff; }
+#nav1 ul li.current-cat { }							/* active item first level */
+#nav1 ul li.current-cat a,
+#nav1 ul li ul li a.a_hover_main { color:#000;}				/* on hover */
+/* level 2 */
+/*#nav1 ul li.li_hover_main ul li a { color:#063;}*/
+#nav1 ul li ul { top:41px; left:-10px; background:url(images/bg_nav1_level2.png) repeat-y;}				/* position of submenu */
+#nav1 ul li ul li { padding:0;}
+#nav1 ul li ul li a { color:#bebebe; width:173px; padding:10px; display:block; border-top:1px solid #315875;}
+#nav1 ul li ul li a.have_submenu { color:#fff; display:block; background:#0d2d44; border-top:1px solid #315875;}																/* if item have submenu */
+#nav1 ul li ul li a:hover,
+#nav1 ul li ul li a.have_submenu_hover { color:#fff; background:#0d2d44; border-top:1px solid #315875;}
+/* level 3 */
+#nav1 ul li ul li ul { top:0px; left:170px;}
+/* position of sub-submenu */
+
+.topnav * { z-index:1002;}
+#nav1 * { z-index:1001;}
+
+/* DO NOT EDIT!!! */
+ul.menusm { list-style:none;}
+ul.menusm li { cursor:pointer; position:relative; }
+ul.menusm li a { position:relative; }
+ul.menusm li ul { display:none; position:absolute; list-style:none; }
+ul.menusm li ul li ul { position:absolute; list-style:none;}

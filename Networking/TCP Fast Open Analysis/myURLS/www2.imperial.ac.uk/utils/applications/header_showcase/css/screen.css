@@ -1,0 +1,258 @@
+/*
+colours up top for quick customisation!
+-DVO
+*/
+
+div.showcase_container .bg_burgundy {
+	background-color:#841c1c;
+}
+
+div.showcase_container .burgundy {
+	color:#841c1c;
+}
+
+div.showcase_container .bg_tan {
+	background-color:#c7bca6;
+}
+
+div.showcase_container .tan {
+	color:#c7bca6;
+}
+
+div.showcase_container .sc-brown {
+	color:#67521b;
+}
+
+div.showcase_container .emph_white {
+	color:#fff;
+	font-size:1.15em;
+}
+
+div.showcase_container .white {
+	color:#fff;
+}
+
+div.showcase_container .bg_blue_light { background-color:#44B6D0; }
+div.showcase_container .blue_light { color:#44B6D0; }
+div.showcase_container .bg_blue_dark { background-color:#28849B; }
+div.showcase_container .blue_dark { color:#28849B; }
+
+div.showcase_container .bg_brown_light { background-color:#D8953E; }
+div.showcase_container .brown_light { color:#D8953E; }
+div.showcase_container .bg_brown_dark { background-color:#A46429; }
+div.showcase_container .brown_dark { color:#A46429; }
+
+div.showcase_container .bg_red { background-color:#841C1C; }
+div.showcase_container .red { color:#841C1C; }
+div.showcase_container .bg_grey { background-color:#C7BCA6; }
+div.showcase_container .grey { color:#C7BCA6; }
+
+div.showcase_container .bg_purple_light { background-color:#7077D1; }
+div.showcase_container .purple_light { color:#7077D1; }
+div.showcase_container .bg_purple_dark { background-color:#393F63; }
+div.showcase_container .purple_dark { color:#393F63; }
+
+div.showcase_container .bg_green_light { background-color:#91C05A; }
+div.showcase_container .green_light { color:#91C05A; }
+div.showcase_container .bg_green_dark { background-color:#61883B; }
+div.showcase_container .green_dark { color:#61883B; }
+
+div.showcase_container .bg_yellow { background-color:#DFD454; }
+div.showcase_container .yellow { color:#DFD454; }
+
+div.showcase_container .bg_purpleb { background-color:#5D5DCB; }
+div.showcase_container .purpleb { color:#5D5DCB; }
+div.showcase_container .bg_orangeb { background-color:#D8953E; }
+div.showcase_container .orangeb { color:#D8953E; }
+div.showcase_container .bg_blueb { background-color:#44B6D0; }
+div.showcase_container .blueb { color:#44B6D0; }
+div.showcase_container .bg_greenb { background-color:#91C05A; }
+div.showcase_container .greenb { color:#91C05A; }
+div.showcase_container .bg_brownb { background-color:#A46329; }
+div.showcase_container .brownb { color:#A46329; }
+div.showcase_container .bg_redb { background-color:#841C1C; }
+div.showcase_container .redb { color:#841C1C; }
+
+
+
+
+
+
+
+
+div.showcase_container {
+	height:240px;
+	background-color:#eaeaea;
+	float:left;
+	display:block;
+	clear:both;
+    margin: 0.3em 0.3em 0.0em 0.9em;
+    width: 58.2em;
+}
+
+div.showcase_container a {
+	text-decoration:none;
+}
+
+div.showcase_side_bar_container {
+				float:left;
+				width:193px;
+				height:100%;
+				display:inline;
+color:#fff;
+			}
+
+div.showcase_side_bar_container div.inside {
+padding:10px;
+font-size:1.6em;
+width:82%;
+margin-top:5px;
+margin-left:8px;
+}
+
+div.showcase_side_bar_container div.inside a {
+	color:#c7bca6;
+}
+
+div.showcase_side_bar_container div.inside a.small_link {
+	font-size:0.85em;
+	color:#fff;
+	background: url("http://www3.imperial.ac.uk/2007templates/images/bullet_white_arrow.png") no-repeat scroll 0.2em 0.45em;
+	padding-left:14px;
+}
+
+div.showcase_side_bar_container div.inside a.small_link:hover {
+	text-deocration:underline;
+	color:#fff;
+}
+
+div.showcase_side_bar_container h1 {
+font-weight:bold;
+font-size:2.275em;
+padding:10px;
+padding-top:20px;
+padding-bottom:14px;
+margin-top:0px;
+margin-bottom:5px;
+border-bottom:2px solid #fff;
+}
+
+div.showcase_side_bar_container div.inside ul {
+ padding:0px;
+ margin:0px;
+ margin-top:5px;
+ margin-left:30px;
+}
+
+div.showcase_side_bar_container div.inside ul li {
+list-style-image:none;
+background:0;
+padding-left:2px;
+clear:both;
+float:left;
+margin-top:8px;
+text-align:left;
+position:relative;
+height:30px;
+}
+
+div.showcase_side_bar_container div.inside ul li img {
+margin-left:-24px;
+}
+
+div.showcase_side_bar_container div.inside ul li p {
+ position:absolute;
+top:-2px;
+float:left;
+}
+
+div.showcase_side_bar_container div.inside ul li p a {
+text-decoration:none;
+font-size:1.1em;
+font-weight:bold;
+color:#c7bca6;
+}
+
+	div.showcase_image_container {
+				width:385px;
+				float:left;
+				display:inline;
+				height:100%;
+				position:relative;
+			}
+			div.showcase_image_container ul {
+			padding:0px;
+			margin:0px;
+			list-style:none;
+			margin:0px;
+			padding:0px;
+			}
+			div.showcase_image_container ul li {
+				list-style-type:none;
+			        background:0;
+margin:0px;
+paddding:0px;
+float:left;
+			}
+			div.showcase_image_container ul li img {
+			position:absolute;
+			top:0px;
+
+				left:0px;
+			display:block;
+				z-index:-2;
+				width:100%;
+				height:240px;
+			}
+			div.showcase_image_caption_container {
+				position:absolute;
+				bottom:0px;
+				z-index:200;
+				width:100%;
+				background-image:url('http://www3.imperial.ac.uk/2007templates/images/photo_caption_bg.png');
+				padding-bottom:2px;
+			}
+			div.showcase_image_caption_text {
+				float:left;
+color:#fff;
+padding:10px;
+top:0px;
+width:300px;
+background:0;
+padding-top:6px;
+padding-left:6px;
+			}
+
+div.showcase_image_caption_text a {
+ color:#fff;
+}
+
+div.showcase_image_caption_text span.more {
+
+}
+
+div.showcase_image_caption_text .orange {
+	color:#D8953E;
+}
+
+div.showcase_image_caption_text .red {
+	color:#f51b14;
+}
+
+div.showcase_image_caption_text .white {
+	color:#fff;
+}
+
+
+span.titletext {
+font-size:1.170em; margin-bottom:3px; display:block; float:left;
+width:300px;
+}
+
+
+			div.showcase_image_caption_nav {
+				float:right;
+				margin-top:15px;
+				margin-right:10px;
+			}
+			

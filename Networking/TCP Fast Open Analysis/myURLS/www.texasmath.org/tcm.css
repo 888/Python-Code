@@ -1,0 +1,94 @@
+<STYLE TYPE="text/css">
+
+
+#title
+{
+  padding: 0px;
+  text-align:left;
+  position:absolute;
+  top:-30px;
+  left:-30px;
+  
+}
+
+#search
+{
+  padding: 00px;
+  text-align:left;
+  width: 150px;
+  position:absolute;
+  left: 00px;
+  top:100px;
+
+}
+
+#nav
+{
+  padding: 10px;
+  text-align:left;
+  width: 130px;
+  position: absolute;
+  left: 00px;
+  top: 160px;
+  background: #FFC
+}
+
+#right
+{
+  padding: 10px;
+  text-align: right;
+  width: 120px;
+  position: absolute;
+  right: 00px;
+  top: 05px;
+  background: #FFF
+}
+
+#center
+{
+  padding: 00px;
+  float: top;
+  width: auto;
+  position: relative;
+  margin: -35px 10px 10px 150px;
+  background: #FFC
+}
+
+#center_opera
+{
+  padding: 00px;
+  float: top;
+  width: auto;
+  position: relative;
+  margin: 100px 10px 10px 150px;
+  background: #FFC
+}
+
+
+#content
+{
+  padding: 10px;
+  float: top;
+  width: auto;
+  position: absolute;
+  top:5px;
+  right:150px;
+  left:10px;
+
+//  margin: 0px 180px 20px 20px;
+  background: #FFF
+
+
+}
+
+#runner
+{
+  padding:00px
+  width: 55%
+  position:absolute;
+
+  margin:10px 10px 10px 10px;
+  background: #FFC
+}
+
+</STYLE>

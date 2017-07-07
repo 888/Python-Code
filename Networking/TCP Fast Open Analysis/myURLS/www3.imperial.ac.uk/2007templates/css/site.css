@@ -1,0 +1,1864 @@
+/* GENERIC CONTENT STYLES
+-------------------------------------------------*/
+
+body {
+	margin: 0px;
+	font-size: 62.5%;
+	font-family: Arial, Verdana, sans-serif;
+	background-color: #fff;
+	color: #333;
+}
+
+/*td,
+th,*/
+p,
+li,
+input,
+label,
+textarea {
+	font-size: 1.2em;
+	line-height: 1.5em;
+	font-family: Arial, Verdana, sans-serif;
+
+}
+
+.generic-content-block td,
+.generic-content-block th {
+	font-size:1.2em;
+	line-height: 1.5em;
+}
+
+.generic-content-block td p,
+.generic-content-block th p {
+	font-size:100%;
+
+}
+
+
+h1 {
+	margin: .75em 0em;
+	font-size: 2em;
+	font-weight: normal;
+	color: #27849a;
+}
+
+
+
+
+h2 {
+	font-size: 1.7em;
+	margin-bottom: .5em;
+	margin-top: 1.2em;
+	padding-bottom: .3em;
+	color: #27849a;
+	background: transparent url(/2007templates/images/dotted_line_bg.gif) repeat-x 0% 100%;
+	font-weight: normal;
+}
+
+h2 span {
+	position: absolute;
+	left: -9999em;
+}
+
+h3 {
+	margin-left: 0em;
+	margin-bottom: .3em;
+	margin-right: 0em;
+	margin-top: .8em;
+	font-size: 1.3em;
+	font-weight: normal;
+	color: #5c5c5c;
+	padding: 0em;
+	font-weight: bold;
+}
+
+h4 {
+	
+}
+
+p {
+	margin-top: 0em;
+	margin-bottom: 1.25em;
+	
+}
+
+
+p label,
+p input {
+	font-size: 1em;
+	vertical-align: middle;
+}
+
+p input {
+	margin: 0em .5em 0em 0em;
+}
+
+
+/* BANNER CLASS 
+--------------------------------------------*/
+
+.banner {
+
+	font-size: 2.9em;
+
+} 
+
+	
+/* =  UL/LI STYLES 	FROM 20-8-07 CSS
+-------------------------------------------------*/	  
+
+ul {
+	margin: .8em 0em 1.3em 1.7em;
+	list-style: none;
+	padding: 0em;
+	font-size: 1em;
+}
+
+
+
+ul li,
+ol li ul li {
+	font-size: 1.2em;
+	line-height: 1.5em;
+	background: transparent url(/2007templates/images/bullet.gif) no-repeat 0em .55em;
+	padding: 0em 0em 0em 1.2em;
+	margin: 0em 0em .2em;
+}
+
+ol li ul li {
+	font-size: 1em;
+}
+
+ul.no-bullet li,
+#sub-content ul.no-bullet li {
+	background: transparent none;
+	padding-left: 0em;
+}
+
+ul ul {
+	font-size: 1em;
+	margin: .5em 0em 1em;
+}
+
+ul li ul li {
+	font-size: 1em;
+	background-image: url(/2007templates/images/bullet_nested.gif);
+	background-position: 0em .55em;
+}
+
+ul.link-list li {
+	background: transparent url(/2007templates/images/bullet_col.gif) no-repeat 0em .55em;
+}	 
+
+ul.two-col-list li {
+	width: 42%;
+}
+
+ul.two-col-list li.right {
+	float: right;
+	clear: right;
+	display: inline-block;
+	padding-bottom: 0em;
+	padding-top: 0em;
+}
+
+ul li.with-thumbnail {
+	position: relative;
+	min-height: 6em;
+	height: auto !important;
+	height: 6em;
+	padding-left: 6.6em;
+	margin-bottom: .6em;
+	background: transparent none; 	
+}	
+
+ul li img.thumbnail {
+	border: 3px solid #758eac;
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+
+ul li a:link,
+ul li a:visited {
+	color: #bc2828;
+	font-size: 1em;
+	text-decoration: underline;
+}
+
+ul li a:hover {
+	text-decoration: none;
+}	 
+
+ul li a:active {
+	color: #bc2828;
+	font-size: 1em;
+	text-decoration: underline;
+}
+
+ul.link-list li a:link,
+ul.link-list li a:visited {
+	text-decoration: none;
+}
+
+ul.link-list li a:hover {
+	text-decoration: underline;
+} 
+
+ul.link-list li a:active {
+	text-decoration: none;
+}
+
+.no-color a:link, 
+.no-color a:visited, 
+.no-color a:hover, 
+.no-color a:active {
+	color: #333;
+}
+
+ul li h4 {
+	font-size: 1em;
+	font-weight: bold;
+	margin: 0em;
+}
+
+ul li h4 a:link,
+ul li h4 a:visited,
+ul li h4 a:active {
+	font-weight: normal;
+}
+
+ul li p {
+	font-size: 1em;
+	line-height: 1.3em;
+	margin: 0.1em 0em 1em;
+}
+
+ul li.more {
+	background: transparent none;
+	text-align: right;
+	padding: 0em;
+	margin: 0em;
+}
+
+ul li.more a:link,
+ul li.more a:visited {
+	color: #3274d8;
+	font-size: .95em;
+	text-decoration: underline;
+}
+
+ul li.more a:hover {
+	text-decoration: none;
+} 
+
+ul li.more a:active {
+	color: #3274d8;
+	font-size: .95em;
+	text-decoration: underline;
+}
+
+
+ol {
+	margin: 1em 0em 1.3em 1.7em;
+	padding: 0em 0em 0em 1.7em;
+	/*list-style: decimal;
+	list-style: inherit ;*/
+}
+
+ol li {
+	margin: 0em 0em .5em;
+	padding: 0px;
+}
+
+ol li li {
+	font-size: 1em;
+}
+
+
+/* = TABLES
+-------------------------------------------------*/
+
+/*table {
+	margin-top:1.3em;
+	margin-bottom:1.3em;
+}*/
+
+
+ 
+table.datatable td,
+table.datatable th {
+	padding-left: 11px;
+	padding-right: 11px;
+	padding-bottom: 9px;
+	padding-top: 9px;
+	vertical-align: top;
+	font-size: 1em;
+	color: #333;
+}		   
+
+table.datatable {
+
+}
+
+table td.right,
+table th.right {
+	text-align: right;
+}
+
+table td.left,
+table th.left {
+	text-align: left;
+}	
+
+table.datatable td {
+	font-size: 1.1em;
+}						
+table.datatable th {
+	color: #0b5f91;
+	text-align: left;
+	font-size: 1.1em;
+	padding-top: 9px;
+	padding-bottom: 4px;
+}				  
+ /*
+table a:link,
+table a:visited,
+table a:active {
+	text-decoration: none;
+}
+
+table a:hover {
+	text-decoration: underline;
+}	  */
+
+/* = LINKS
+-------------------------------------------------*/
+
+a:link {
+	color: #bc2828;
+}
+
+a:visited{ 
+	color: #bc2828;
+}
+
+a:hover {
+	color: #bc2828;
+	text-decoration: none;
+}
+
+a:active {
+	color: #bc2828;
+}
+
+#page-area .icon {
+	display: inline;
+	vertical-align: baseline;
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+
+p.more {
+	text-align: right;
+}
+
+p.more a:link,
+p.more a:visited {
+	color: #3274d8;
+	font-size: .95em;
+	text-decoration: underline;
+}
+
+p.more a:hover {
+	text-decoration: none;
+}	   
+
+p.more a:active {
+	color: #3274d8;
+	font-size: .95em;
+	text-decoration: underline;
+}
+
+/* = IMAGES
+-------------------------------------------------*/
+
+a img {
+	border: 0px;
+}
+
+.image-left {
+	float: left;
+	margin: 0px 15px 5px 0px;
+}
+
+.image-right {
+	float: right;
+	margin: 0px 0px 5px 15px;
+}
+
+.with-border {
+	border: .3em solid #758eac;
+}
+
+.inline-icon {
+	display: inline;
+	vertical-align: baseline;
+	padding: 0px 2px;
+}
+
+.align-middle {
+	vertical-align: middle;
+	padding: 0px 2px 1px;
+}
+
+/* = CLEAR
+-------------------------------------------------*/
+
+.clear {
+	clear: both;
+	height: 0px;
+	line-height: 0px;
+}
+
+.clear span {
+	position: absolute;
+	left: -9999em;
+}
+
+/* = HR (DIV)
+-------------------------------------------------*/
+
+.hr {
+	height: 0px;
+	padding-top: 1px;
+	line-height: 0px;
+	clear: both;
+	margin: 0em .6em 0em;  /* margin: 0em .6em 0em -1.0em; (margin: 0em -1em 0em -1.0em; 5-9-07)  */
+	width: 57.9em;
+	background: transparent url(/2007templates/images/dotted_line_bg.gif) repeat-x 0% 0%;
+}
+
+.hr span {
+	position: absolute;
+	left: -9999em;
+}
+
+/* = FORMS
+-------------------------------------------------*/
+
+form {
+	border: .5em solid #adadad;
+	border-width: .5em 0em;
+	background-color: #ededed;
+}
+
+form .nostyle {
+	border:none;
+	border-width:0em;
+	background-color:none;
+}
+
+form .hr {
+	padding-top: 1em;
+	background: #fff none;
+	margin: 0em;
+	width: 54.9em;
+}	
+
+form .hrwide {	/* MADE BY PJG FOR TRANSACTIONAL TEMPLATES */
+	padding-top: 1em;
+	background: #fff none;
+	margin: 0em;  
+	height: .1em;
+	width: 76em;
+}
+
+fieldset {
+	background-color: #ededed;
+	border: 0em;
+	margin: 0em;
+	padding: 1em;
+}
+
+fieldset h2 {
+	font-weight: normal;
+	color: #163d65;
+	margin: 0em 0em .5em;
+	padding: 0em;
+	background: transparent none;
+}
+
+form input,
+form select,
+form textarea {
+	border: 1px solid #ddd;
+	font-size: 1em;
+	background-color: #fff;	
+	color: #444;
+	margin: 0em;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+form input,
+form select {
+	vertical-align: middle;
+	padding: .1em;
+}
+
+form input {
+	padding: .2em .2em .2em;
+}
+
+.radioInput,
+.checkBoxInput,
+.submitButton {
+	padding: 0em;
+	background-color: transparent;
+	border: 0em;
+	vertical-align: middle;
+}
+
+.short {
+	width: 6em;
+}
+
+.medium {
+	width: 10em;
+}
+
+textarea.medium {
+	width: 14em;
+	height: 4em;
+}
+
+.long {
+	width: 14em;
+}
+
+textarea.long {
+	width: 25em;
+	height: 4em;
+}
+
+.longer {
+	width: 20em;
+}
+
+form table {
+	margin: 0em .5em;
+}
+
+form table td {
+	font-size: 1.1em;
+	padding: .45em .45em;
+	vertical-align: top;
+}
+
+form table .nostyle {
+	margin: 0em 0em;
+}
+
+form table td .nostyle {
+	font-size: 100%;
+	padding: 0em 0em;
+}
+
+form table.nostyle td {
+	font-size: 100%;
+	padding: 0em 0em;
+}
+
+form label {
+	vertical-align: middle;
+	line-height: 1.5em;
+	font-size: 1em;
+}
+
+form .hint {
+	vertical-align: middle;
+	padding-left: 1em;
+	color: #555;
+}
+
+.form-buttons {
+	padding: 1em;
+	text-align: left;
+}
+
+.form-buttons input {
+	vertical-align: middle;
+}
+
+.form-buttons a:link,
+.form-buttons a:visited,
+.form-buttons a:active {
+	vertical-align: middle;
+	font-size: 1.1em;
+	color: #777;
+}
+
+.form-nostyle {
+
+	border: none;
+	background-color: none;
+}
+
+/* = TABLES
+-------------------------------------------------*/
+
+.data-table {
+	border-top: .5em solid #adadad;
+	color: #666;
+	padding: .9em .8em .8em .9em;
+	background-color: #ededed;
+	margin: 2em 0em;
+}
+
+.data-table h2,
+.data-table h3 {
+	font-weight: normal;
+	color: #163d65;
+	margin: 0em;
+	background:none;
+}
+
+.data-table table {
+	margin: 1em 0em 0em;
+}
+
+.data-table th {
+	text-align: left;
+	font-weight: bold;
+	padding: .5em .5em .4em;
+	font-size: 1.1em;
+	line-height: 1.2em;
+	background-color: #ededed;
+}
+
+
+.data-table .right {
+	text-align: right;
+}
+
+.data-table .center {
+	text-align: center;
+}
+
+.data-table td {
+	background-color: #fff;
+	border: .1em solid #ededed;
+	padding: .5em .5em .4em;
+	font-size: 1.1em;
+	line-height: 1.2em;
+	border-width: 0em .1em .1em 0em;
+}
+
+/* = UTILITIES
+-------------------------------------------------*/
+
+.hide,
+.hidden {
+	position: absolute;
+	left: -9999em;
+	display: none;
+}
+
+/* = PAGE LAYOUT
+-------------------------------------------------*/
+
+#page-area {
+	width: 85em;
+	overflow: hidden;  
+	margin: 0px auto 2em;
+	font-size: 1em;
+}
+
+
+/* = HEADER
+-------------------------------------------------*/
+
+#header {
+	width: 100%;
+	position: relative;
+}
+ 
+#logo {
+	display: block;
+	margin: 1.4em 0em 1.4em 1.7em;
+	width: 16.8em;	 
+	height: 4.4em;
+	float: left;
+	display: inline;
+}	 
+  	 
+#logo img {
+	display: block;
+	width: 16.8em;
+	height: 4.4em;
+}		  
+
+/* = MAIN NAVIGATION
+-------------------------------------------------*/
+
+#main-nav {
+	font-size: 1em;
+	list-style: none;
+	margin: 0px;
+	padding: 0em 0em 0em 0em;	
+	float: right;
+}
+
+#main-nav li {
+	float: left;
+	display: none;
+	position: relative;
+	width: 6.5em;
+	font-size: 1em;
+	padding: .9em 1.2em 0em .65em;  
+	background: transparent none;
+	margin: 0em;
+	height: 4.7em;
+	border-right: .1em solid #d7d7d7;
+}
+
+.show-nav #main-nav li {
+	display: block;
+}
+
+.show-nav #main-nav li#mn-home {
+	position: absolute;
+	left: -9999em;
+	width: 0px;
+}
+
+#main-nav li#mn-home {
+	position: absolute;
+	right: 1em;
+	top: 4.7em;
+	display: block;
+	width: auto;	
+	border: 0px;
+	float: none;
+	padding: 0 0 5px 0;
+	line-height: 1.2em;
+	background: transparent none;
+    
+    
+}
+
+#main-nav li#mn-home a:link,
+#main-nav li#mn-home a:visited {
+	position: static;
+	color: #20558f;
+	background: transparent url(/2007templates/images/bullet_home_link.gif) no-repeat 0% 50%;
+	font-size: 1.2em;
+	width: auto;
+        padding: 0px 0px 0px 1.2em;  
+	line-height: 1.1em;
+}
+
+#main-nav li#mn-home a:hover {
+	text-decoration: underline;
+}
+
+#main-nav li#mn-home a:active {
+	position: static;
+	color: #20558f;
+	background: transparent url(/2007templates/images/bullet_home_link.gif) no-repeat 0% 50%;
+	font-size: 1.2em;
+	width: auto;
+	padding: 0px 0px 0px 1.2em;
+	line-height: 1.1em;
+}
+
+#main-nav li#mn-about {
+	border: 0px;
+	padding-right: 0.5em ;
+	width: 5em;	
+}
+
+#main-nav a:link,
+#main-nav a:visited {
+	position: absolute;
+	left: .68em;
+	bottom: 0em;
+	width: 6em;
+	display: block;
+	vertical-align: bottom;
+	font-size: 1.2em;
+	text-decoration: none;
+	color: #2d6a9d;
+}
+
+#main-nav a:hover {
+	color: #1c4a7c;
+}				 
+
+#main-nav a:active {
+	position: absolute;
+	left: .68em;
+	bottom: 0em;
+	width: 6em;
+	display: block;
+	vertical-align: bottom;
+	font-size: 1.2em;
+	text-decoration: none;
+	color: #2d6a9d;
+}
+
+
+/* = HEADER BAR
+-------------------------------------------------*/
+
+#header-bar {
+	position: relative;
+	width: 100%;
+	clear: both;
+	background: #22547e url(/2007templates/images/header_bar_bg.png) repeat-x 0% 0%;
+}
+
+/* = SEARCH AREA
+-------------------------------------------------*/
+
+#search-area {
+	background: #3d729a url(/2007templates/images/search_area_bg.png) repeat-x 0% 0%;
+	float: right;
+	width: 25em;
+	font-size: 1em;
+}
+
+#search {
+	font-size: 1em;
+	line-height: 1em;
+	margin: 0em;
+	float: left;
+	border: 0em;
+	width: 22.3em;
+	padding: 0em 2.7em 0em 0em;
+	text-align: left;
+	background: transparent url(/2007templates/images/search_left_border_bg.png) no-repeat 0% 0%;
+}
+
+#search-inner-wrapper {
+	font-size: 1em;
+	padding: .8em .5em 0em 1.8em;
+	float: left;
+	display: block;
+	margin-right: .9em;
+	height: 2.4em;
+	background: transparent url(/2007templates/images/search_divider_bg.png) no-repeat 100% 0%;
+}
+
+#search label {
+	position: absolute;
+	left: -9999em;
+}
+
+
+#searchQuery {
+	background: #e0eaf2 url(http://www3.imperial.ac.uk/pls/portallive/docs/1/65329697.GIF) left no-repeat;
+	color: #000;
+	border: 0px;
+	padding: .2em .8em .2em;
+	width: 9em;
+	margin: 0em;
+	font-size: 1.1em;
+	line-height: 1.1em;
+	display: block;
+	float: left;
+}
+
+#searchSubmit {
+	display: block;
+	float: left;
+	font-size: 1.1em;
+	padding: 0em .2em 0em .2em;
+	margin: .4em 0em 0em 0.1em;
+	cursor: pointer;
+	background-color: transparent;
+	border: 0em;
+}
+
+#search-people {
+	color: #fff;
+	text-decoration: none;
+	float: right;
+	display: block;
+	font-size: 1.1em;
+	line-height: 1.1em;
+	padding: .915em 1.7em .915em 0em;
+	background: transparent url(/2007templates/images/icon_find_people.png) no-repeat 100% 50%;
+}
+
+/* = AUDIENCE NAV
+-------------------------------------------------*/
+
+#audience-nav {
+	float: right;
+	color: #fff;
+	font-size: 1em;
+	padding-right: .1em;
+	background: transparent url(/2007templates/images/audience_nav_right_border_bg.png) no-repeat 100% 0%;
+}
+
+#audience-nav a:link,
+#audience-nav a:visited, 
+#audience-nav a:hover, 
+#audience-nav a:active {
+	color: #fff;
+	text-decoration: none;
+	font-size: 1.1em;
+	line-height: 1.1em;
+	padding: .915em 1.2em .915em 0em;
+	float: left;
+	background: transparent url(/2007templates/images/bullet_audience_nav.png) no-repeat 100% 50%;
+}
+
+#audience-nav p {
+	float: left;
+	font-size: 1.1em;
+	line-height: 1.1em;
+	padding: .915em .2em .915em 0em;
+	margin: 0px;
+}
+
+#audience-nav ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	font-size: 1em;
+}
+
+#audience-nav li {
+	font-size: 1em;
+	line-height: 1em;
+	margin: 0px;
+	float: left;
+	padding: 0px 1em 0px 1.2em;
+	background: transparent url(/2007templates/images/audience_nav_divider_bg.png) no-repeat 0% 0%;
+}
+
+#audience-nav li:hover,
+#audience-nav li.hover {
+	background: #3d729a url(/2007templates/images/audience_nav_hover_bg.png) no-repeat 0% 0%;
+}
+
+#audience-nav li#au-prospective-students {
+	background: transparent none;
+	padding-left: 1em;
+}
+
+#audience-nav li#au-prospective-students:hover,
+#audience-nav li#au-prospective-students.hover {
+	background: #3d729a url(/2007templates/images/audience_nav_hover_bg.png) no-repeat 0px 0px;
+}	
+
+
+/* = SUB HEADER	 FROM 20-8-07 CSS
+-------------------------------------------------	 */   
+
+#sub-header {
+	color: #fff;
+	background-color: #27849a;
+    border-top: .6em solid #32a8c4;		
+    padding: 1.2em 2.6em; 	 
+	position: relative;
+/*  min-height: 6.2em;  removed: fix needed for IE7 to let flash file grow */
+}	 
+
+#sub-header.top-level {
+	background-color: #44b6d0;
+	border: 0em;
+    padding-top: 1.8em;	  
+	height: 5.6em;	/*  removed: fix needed for IE7 to let flash file grow  */
+}
+
+#sub-header h1,
+#sub-header h2,
+#sub-header .bannerTitle {
+	font-size: 2.8em;
+	line-height: 1.1em;
+	font-weight: normal;
+	margin: 0em;
+	padding: 0em;	
+	color: #fff;
+	background: transparent none;
+}
+
+#sub-header #sub-hdr-image {
+	position: absolute;
+	right: 0em;
+	top: 0em;
+	width: 25em;
+	height: 8.6em;
+	display: block;
+}
+
+#sub-header h1 img {
+	display: block;
+}
+
+#sub-header p {
+	margin:.75em 0em 0em;
+	padding: 0 0 0 0.2em;
+	font-size: 1.4em;  
+}
+
+#sub-nav {
+	margin: 1.5em 0em 0em;
+	padding: 0px;
+	font-size: 1em;
+}
+
+
+#sub-nav li {
+	display: inline;
+	font-size: 1.2em;
+	line-height: 1.2em;
+	padding: 0em .9em;
+	border-left: 1px solid #fff;
+	background: transparent none;
+	
+}
+
+#sub-nav li.first {
+	padding-left: 0em;
+	border: 0px;
+}
+
+
+
+#sub-nav li a:link,
+#sub-nav li a:visited {
+	color: #fff;
+	text-decoration: none;
+}
+
+#sub-nav li a:hover {
+	text-decoration: underline;
+} 	  
+
+#sub-nav li a:active {
+	color: #fff;
+	text-decoration: none;
+}
+		
+
+
+/* = CONTENT AREA
+-------------------------------------------------*/
+
+
+
+#hp-content-area {		  /* FILE NAME CHANGED TO FOR SC'S WIZARD */
+
+	background: #000 url(/2007templates/images/hp_photos/hp_main_bg_image.jpg) no-repeat 0% 0%;
+	width: 85em;
+	height: 55.8em; 
+	margin-top: 0em;
+    padding: 0em;	
+}
+	
+
+
+/* = CONTENT AREA - TJ added 28/08/07
+-------------------------------------------------*/
+
+#content-area-wrapper {
+	background: #ebecec url(/2007templates/images/content_area_bg.jpg) repeat-x 0% 0%;
+	padding: .4em .1em .4em .4em;
+	margin-top: .7em;
+	width: 84.5em;
+}
+
+#ca-left {
+	background: #fff url(/2007templates/images/ca_left_bg.gif) repeat-y 0% 0%;
+	width: 100%;
+}
+
+.has-sidebar #ca-left {
+	background-image: url(/2007templates/images/ca_left_sidebar_bg.gif);
+}
+
+#ca-right {
+	background: transparent url(/2007templates/images/ca_right_bg.gif) repeat-y 59.2em 0em;
+	width: 100%;
+}
+
+#ca-top-left {
+	background: transparent url(/2007templates/images/ca_top_left_bg.jpg) no-repeat 0% 0%;
+	width: 100%;
+}
+
+#ca-top-right {
+	background: transparent url(/2007templates/images/ca_top_right_bg.png) no-repeat 59.2em 0em;
+	width: 100%;
+}
+
+#ca-bot-left {
+	background: transparent url(/2007templates/images/ca_bot_left_bg.gif) no-repeat 0% 100%;
+	width: 100%;
+}
+
+#ca-bot-right {
+	background: transparent url(/2007templates/images/ca_bot_right_bg.gif) no-repeat 59.2em 100%;
+	padding: 0em 0em 0em .4em;
+	width: 84.1em;
+}
+
+.wide #ca-bot-right {
+	padding-top: .4em;
+	padding-bottom: 1em;
+}
+
+#content-area {
+	width: 100%;
+
+}
+
+
+
+.wide #content-area-inner-wrapper {
+	width: 82.8em;
+	margin-top: .8em;
+	padding: 0em;
+	background: transparent url(/2007templates/images/wide_sub_content_bg.gif) repeat-y 59.9em 0em;
+}
+
+.wide #content-area-column-divide.has-sidebar,
+.wide #content-area-column-divider.has-slim-sidebar {
+	width: 100%;
+	background: transparent url(/2007templates/images/dotted_line_bg.gif) repeat-y 20.4em 0em;
+}
+
+.wide #content-area-column-divider.has-slim-sidebar {
+	background-position: 18em 0em;
+}
+
+/* = WIDE TEMPLATE
+-------------------------------------------------*/
+
+.wide #ca-right {
+	background-position: 83.5em 0em;
+}
+
+.wide #ca-top-right {
+	background-position: 83.5em 0em;
+}
+
+.wide #ca-bot-right {
+	background-position: 83.5em 100%;
+}
+
+/* = MAIN CONTENT
+-------------------------------------------------*/
+
+#main-content { /* NOTE: the height attributes will need to come out  - TJ 26/10 */
+/*	min-height: 13em;*/
+	height: auto !important;
+/*	height: 13em;*/
+	width: 57.1em;
+	margin-left: -0.3em; /* pjg changed from 0.9em 	  */		
+	float: left;
+	padding: .4em 0em;
+	word-wrap: break-word;
+}
+
+#main-content-pwp { /* Tom added 11/10 */
+	width: 58.9em;
+	height: auto !important;
+	margin-left: -0.3em; /* pjg changed from 0.9em 	  */		
+	float: left;
+	padding: .4em 0em;
+}
+
+#main-content-pwp-home1 { /* Tom added 11/10 */
+/*	width: 57.1em;*/
+/*	height: auto !important;*/
+	margin-left: 1.5em; /* pjg changed from 0.9em 	  */		
+	float: left;
+	padding: .4em 0em 0em 0em;
+}
+
+#main-content-pwp-home2 { /* Tom added 11/10 */
+/*	width: 57.1em;*/
+/*	height: auto !important;*/
+	margin-left: 0.5em; /* pjg changed from 0.9em 	  */		
+	float: left;
+	padding: 0em;
+}
+
+#main-content-pwp-home3 { /* Tom added 11/10 */
+	width: 32.2em;
+	height: auto !important;
+/*	margin-left: 0; /* pjg changed from 0.9em 	  */		
+	float: left;
+	padding: .4em 0em;
+	margin:0em 1.5em 0em 0.8em;
+}
+
+#content-area-inner-wrapper #main-content {
+	padding-top: 0em;
+}
+
+.no-sub-content #main-content {
+	width: 83.4em;
+}
+
+/* = SUB CONTENT
+-------------------------------------------------*/
+
+#sub-content {
+	width: 24.5em;
+	float: right;
+	padding: .4em 0em;	  /* WAS padding: .4em 0em;  */
+}
+
+
+.sub-content-pwp {
+/*	font-size:85%;*/
+}
+
+.wide #sub-content {
+	width: 22.9em;
+	padding-top: .7em;
+	background-color: #ebecec;
+}
+
+#sub-content h2 {
+	color: #333;
+	padding: .4em .8em;
+	font-size: 1.2em;
+	margin: 0em 0em 1em;
+	font-weight: normal;
+	background: #c2c2c2 url(/2007templates/images/h2_sub_content_bg.gif) repeat-x 0% 0%;
+}
+	 
+/*
+#sub-content h2 a:link,
+#sub-content h2 a:visited,
+#sub-content h2 a:active {
+	color: #333;
+}  */
+
+#sub-content h2 span {
+	float: right;
+	padding-left: 10px;
+	position: static;
+}
+
+#sub-content h2 a:link,
+#sub-content h2 a:visited,
+#sub-content h2 a:active {
+	color: #333;
+}
+
+#sub-content h3 {
+	font-size: 1.2em;
+	margin: 0em;
+	font-weight: normal;
+	color: #666;
+	padding: 0em 0em 0em .8em;
+}
+
+#sub-content ul {
+	list-style: none;
+	margin: 0.3em 0em 1em 0em;
+	padding: 0em 1em 0em 1.1em;
+}
+
+#sub-content ul li {
+	line-height: 1.63em;
+	margin-bottom: .2em;
+	padding-left: 1.3em;
+	font-size: 1.1em;
+	color: #797979;
+	background: transparent url(/2007templates/images/bullet_sub_content.gif) no-repeat 0em .55em;
+}
+
+.sticker-block {
+	position: relative;
+	min-height: 5.3em;
+	height: auto !important;
+	height: 5.3em;
+	line-height: 1.3em;
+	font-size: 1.1em;
+	margin: .9em 0em 0em 0em;
+	padding: 0em 8.6em 1em 2.4em;
+	color: #797979;
+	width: 10.3em;
+	background: transparent url(/2007templates/images/bullet_sub_content.gif) no-repeat 1.1em .5em;
+}
+
+.wide .sticker-block {
+	width: 8.7em;
+}
+
+#sub-content .sticker-block h3 {
+	padding: 0em;
+	font-size: 1em;
+}
+
+#sub-content .sticker-block p {
+	font-size: 1em;
+	line-height: 1.3em;
+	margin: .1em 0em .5em;
+}
+
+.sticker-block img.thumbnail {
+	position: absolute;
+	right: .6em;
+	top: auto;
+	left: auto;
+	bottom: .2em;
+	display: block;
+	border: 0em;
+}
+
+#sub-content ul li h3,
+#sub-content ul li h4 {
+	font-size: 1.1em;
+	line-height: 1.3em;
+	margin: 0em;
+	padding: 0em;
+}
+
+#sub-content a:link,
+#sub-content a:visited {
+	color: #00548f;
+	text-decoration: none;
+	font-size: 1.1em;
+}
+
+#sub-content a:hover {
+	text-decoration: underline;
+}		
+
+#sub-content a:active {
+	color: #00548f;
+	text-decoration: none;
+	font-size: 1.1em;
+}
+
+#sub-content p a:link,
+#sub-content p a:visited {
+	font-size: 1em;
+	color: #797979;
+	text-decoration: underline;
+}
+
+/*Added by Archana Santosh - Make the link in the dynamic ad white. Overwrites #sub-content p a:link, #sub-content p a:visited */
+#sub-content p a.dynamicAdLink { color:#FFFFFF; }
+#sub-content p a.dynamicAdLink { text-decoration:none; }
+#sub-content p a.dynamicAdLink:hover { text-decoration:underline; }
+
+
+#sub-content p a:hover {
+	text-decoration: none;
+}			   
+
+#sub-content p a:active {
+	font-size: 1em;
+	color: #797979;
+	text-decoration: underline;
+}
+
+#sub-content .hr {
+	width: auto;
+	margin-bottom: 1em;
+}
+
+
+/* = EXPANDABLE NAV
+-------------------------------------------------*/
+
+#section-nav {
+	width: 23.4em;
+	padding: 0em .6em .5em .4em;	  /* WAS padding: 0em .6em 0em .4em; BETH'S AMENDS */
+}
+
+.wide #section-nav {
+	width: 21.4em;
+	padding: 0em .7em;
+}
+
+.no-sub-content #toolbar {
+	width: 81.4em;
+}
+	
+	
+.wide #section-nav {
+	width: 21.4em;
+	padding: 0em .7em;
+}
+
+#section-nav ul li.expandable {
+	font-size: 1.1em;
+	line-height: 1.3em;
+	margin-bottom: .35em;
+	padding: 0em;
+	position: relative;
+	padding-left: 1.3em;
+	width: 16.2em;
+	background: transparent none;
+}
+
+#section-nav ul li li.expandable {
+	width: 16em;
+}
+/*
+#section-nav ul li .expand-link {
+	display: block;
+	position: absolute;
+	left: 0px;
+	top: .3em;
+	overflow: hidden;
+	width: 9px;
+	height: 9px;
+	margin: 0px;
+	padding: 0px;
+	background: transparent url(/2007templates/images/expand_link_bg.gif) no-repeat 0px 0px;
+}		 */
+
+#section-nav ul li .expand-link {
+	display: block;
+	position: absolute;
+	left: 0px;
+	top: .2em;
+	overflow: hidden;
+	width: 9px;
+	height: 9px;
+	margin: 0px;
+	padding: 0px;
+	background: transparent url(/2007templates/images/expand_link_bg.gif) no-repeat 0px 0px;
+}
+
+
+#section-nav ul li .collapsed {
+	background-position: 0px -9px;
+}
+
+/* 
+#section-nav ul ul,
+#section-nav ul ul ul {
+	margin: 0.3em 0em;
+	padding: 0em;	 added from CCS 20-8-07 
+    font-size: 1em;  
+	width: 100%;
+}*/	
+
+#section-nav ul ul,
+#section-nav ul ul ul {
+	margin: 0.3em 0em .5em;
+	padding: 0em;
+	font-size: 1em;
+	width: 100%;
+}
+
+#section-nav ul ul li,
+#section-nav ul li.expandable li {
+	font-size: 1em;
+	line-height: 1.8em;
+	margin-bottom: .2em;
+}
+
+#sub-content-pwp #breadcrumb,
+#sub-content #breadcrumb {
+	margin: 1em 0em 2em;
+	font-weight: bold;
+	padding: 0em .6em 0em .4em;	  /* added from CCS 20-8-07 */
+}
+
+.wide #sub-content #breadcrumb {
+	padding: 0em .7em;
+}
+
+
+/* = FOOTER
+-------------------------------------------------*/
+
+#footer {
+	margin: .4em 0em 0em;
+}
+
+
+#footer-nav {
+	margin: 0px;
+	float: left;
+	width: 83.8em;
+	padding: .5em .6em;
+	background-color: #d4d4d4;
+}
+
+#footer-nav li {
+	margin: 0em;
+	font-size: 1.1em;
+	line-height: 1.5em;
+	padding: 0em 1em;
+	float: left;
+	background: transparent none;
+}
+
+#footer-nav li.greeting {
+	font-weight: bold;
+}
+
+#footer-nav li a:link,
+#footer-nav li a:visited {
+	color: #00548f;
+	text-decoration: none;
+	padding-left: 1.2em;
+	background: transparent url(/2007templates/images/bullet_footer_nav.gif) no-repeat 0% .4em;
+}
+
+#footer-nav li a:hover {
+	text-decoration: underline;
+ 
+}	  
+
+#footer-nav li a:active {
+	color: #00548f;
+	text-decoration: none;
+	padding-left: 1.2em;
+	background: transparent url(/2007templates/images/bullet_footer_nav.gif) no-repeat 0% .4em;
+}
+
+/* = ADDRESS
+-------------------------------------------------*/
+												  
+/* SHOULD BE #footer-address TO BE CHANGED*/
+#address {
+	float: left;
+	width: 56.4em;
+	padding: .8em 1.7em;
+	color: #626262;
+}
+
+#address p {
+	font-size: 1.1em;
+	line-height: 1.3em;
+}
+
+#address a:link,
+#address a:visited {
+	color: #626262;
+	text-decoration: underline;
+}
+
+#address a:hover {
+	text-decoration: none;
+} 
+
+#address a:active {
+	color: #626262;
+	text-decoration: underline;
+}
+
+#address strong {
+	color: #969696;
+}
+
+/* = COPYRIGHT
+-------------------------------------------------*/
+
+	#copyright {
+		width: 23.2em;
+		float: right;
+		color: #626262;
+	  /*padding: .8em 1.8em .8em 0em;*/
+		padding: .8em 1.8em 0 0;	
+	}
+	
+	#copyright p {
+		font-size: 1.1em;
+		line-height: 1.3em;
+		text-align: right;
+	}
+	
+	.socialbkm  {
+		 
+		margin: 0;
+		padding: 0;
+		float: right;
+	
+	}
+	
+	.socialbkm a {
+		 
+		padding-left: 0.5em;
+	
+	}	
+	
+
+
+/* = TOOLBAR
+-------------------------------------------------
+	Can only appear inside of main content at 
+	the bottom
+-------------------------------------------------*/
+
+#toolbar {
+	position: relative;
+	width: 57em;  
+    height: 2.7em;	/* TJ ADDED  */
+	padding: 1em 1em .3em;
+	clear: both;
+	background: transparent url(/2007templates/images/dotted_line_bg.gif) repeat-x 0% 0%;
+}
+
+#content-area-inner-wrapper #toolbar {
+	background-color: #fff;
+	border-top: 1em solid #fff;
+	margin-left: 1em;
+	width: 56.1em;
+}
+
+.no-sub-content #toolbar {
+	width: 81.4em;
+}
+
+#toolbar #actions {
+	float: left;
+	width: 65%;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#toolbar #actions li {
+	padding-left: 1.8em;
+	font-size: 1.1em;
+	line-height: 1.6em;
+	padding-right: 1.5em;
+	float: left;
+}
+
+#toolbar #actions li#action-print {
+	background: transparent url(/2007templates/images/icons/icon_bw_print.gif) no-repeat 0% 50%;
+}
+
+#toolbar #actions li#action-email {
+	background: transparent url(/2007templates/images/icons/icon_bw_mail.gif) no-repeat 0% 50%;
+}
+
+#toolbar #actions li#action-report {
+	background: transparent url(http://www3.imperial.ac.uk/icimages?p_imgid=23246) no-repeat 0% 50%;
+}
+
+#toolbar #actions li a:link,
+#toolbar #actions li a:visited {
+	text-decoration: none;
+	color: #163d65;
+}
+
+#toolbar #actions li a:hover {
+	text-decoration: underline;
+}	
+
+#toolbar #actions li a:active {
+	text-decoration: none;
+	color: #163d65;
+}
+
+#toolbar dl {
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	display: inline;
+	width: 35%;
+	text-align: right;
+	font-size: 1em;
+}
+
+#toolbar dt {
+	font-size: 1.1em;
+	line-height: 1.6em;
+	margin: 0em;
+	padding: 0em .4em 0em 0em;
+	display: inline;
+	vertical-align: middle;
+}
+
+#toolbar dd {
+	display: inline;
+	vertical-align: middle;
+	font-size: 1.1em;
+	line-height: 1.6em;
+	margin: 0px;
+	padding: 0em 0em 0em .1em;
+}
+
+#toolbar dd img {
+	vertical-align: middle;
+	display: inline;
+	line-height: 1.6em;
+}
+
+/* = EMAIL A FRIEND POPUP
+-------------------------------------------------*/
+
+#emailFriendForm {
+	position: absolute;
+	left: 7em;
+	top: -25em;
+	width: 43em;
+	color: #fff;
+	background-color: #00acc8;
+	border: .6em solid #fff;
+}
+
+#emailFriendForm h2 {
+	font-size: 1.7em;
+	margin: 0em;
+	padding: .6em .7em;
+	color: #fff;
+	font-weight: normal;
+	background: #0087a3 none;
+}
+
+#emailFriendForm form {
+	padding: 1em 1.2em 1em;
+	margin: 0em;
+	background: transparent none;
+	border: 0em;
+}
+
+#emailFriendForm fieldset {
+	border: 0em;
+	padding: 1.1em 1.6em 1.3em;
+	overflow: hidden;
+	margin: 0em;
+	background-color: #48c1d6;
+	width: 37.4em;
+}
+
+#emailFriendForm fieldset input {
+	border: 0em;
+	background-color: #fff;
+	color: #666;
+	display: block;
+	margin: .3em 0em .6em;
+	width: 15.6em;
+	padding: .2em;
+	font-size: 1.1em;
+}
+
+#emailFriendForm h3 {
+	font-size: 1.3em;
+	line-height: 1.2em;
+	margin: 0em;
+	padding: 0em;
+	color: #fff;
+	background: transparent none;
+	font-weight: normal;
+}
+
+#emailFriendForm p {
+	margin: 0em 0em 1.4em;
+	color: #333;
+}
+
+#emailFriendForm #your-info {
+	float: left;
+	width: 17.9em;
+}
+
+#emailFriendForm #friend-info {
+	float: right;
+	width: 17.9em;
+}
+
+#emailFriendForm label {
+	display: none;
+	color: #fff;
+}
+
+#emailFriendForm .form-actions {
+	font-size: 1.1em;
+	text-align: right;
+	padding: .9em 1.8em 0em;
+}
+
+#emailFriendForm .close {
+	font-size: 1.2em;
+	position: absolute;
+	right: 1em;
+	top: .8em;
+	padding-right: 2em;
+	display: block;
+	padding: .2em 2em .2em 0em;
+	background: transparent url(/2007templates/images/close_link_bg.gif) no-repeat 100% 50%;
+}
+
+#emailFriendForm a:link,
+#emailFriendForm a:visited {
+	color: #fff;
+	text-decoration: none;
+}
+
+#emailFriendForm a:hover {
+	text-decoration: underline;
+}	  
+ 
+
+#emailFriendForm a:active {
+	color: #fff;
+	text-decoration: none;
+}
+
+
+ /* = OUT OF DATE LINK
+-------------------------------------------------*/	
+
+div.OChead { background-color:#44b6d0; padding-top:0.7em; padding-left:.5em; padding-right:.5em; margin-bottom:0px; font-size:14px; color:#FFFFFF; width: 366px; height:23px; }
+
+div.OChead span { float:left; width:250px; }
+
+img.OCclose { float:right; }
+
+
+
+
+
+  
+/* Tom hack to overlap second left item region*/
+
+#rg203877	{
+
+  margin-top: -1em;
+    
+}  
+
+/* Tom hack to overlap Social booking left item region  -  old version?*/  
+
+#rg207384  {
+
+   margin-top: -1em;
+
+} 
+
+/* Tom hack to overlap Social booking left item region on department page  */ 
+
+#rg208888 {
+   margin-top:-1em;
+}				
+
+#rg210385 { /* Tom hack to overlap Social booking left item region on Landing page */  
+
+     margin-top:-1em;
+}				   
+
+ /*Editor specific styles*/
+.pageURL4Acr
+	{
+	position:absolute;
+ 	left:0px;
+ 	top:-500px;
+ 	width:1px;
+ 	height:1px;
+ 	overflow:hidden;
+ 	}
+

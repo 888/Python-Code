@@ -1,0 +1,172 @@
+#page-area #content-area ul {
+	list-style: disc;
+	margin-left: 20px;
+}
+
+#page-area .overview-info-text ul.right,
+#page-area .overview-info-text ul.left {
+	width: 15.5em;
+}
+
+#page-area .two-col-link-block .left,
+#page-area .two-col-link-block .right {
+	width: 8em;
+}
+
+#page-area #slider ul {
+	margin-left: 0px;
+	list-style: none;
+}
+
+#page-area #footer #footer-nav {
+	list-style: none;
+}
+
+#page-area #content-area ul li {
+	background: transparent none;
+	padding-left: 0px;
+}
+
+#page-area #content-area ul li.with-thumbnail {
+	position: static;
+	padding: 0px;
+}
+
+#page-area .what-students-say img,
+#page-area .prospectus img.thumbnail,
+#page-area #content-area ul li.with-thumbnail img.thumbnail {
+	float: none;
+	position: static;
+	margin: 0px 10px 5px 0px;
+}
+
+#page-area #content-area #main-content .callout h2 {
+	border: 1px solid #888;
+	border-width: 0px 1px;
+}
+
+#page-area #content-area #main-content .callout .callout-content {
+	border: 1px solid #888;
+	border-width: 0px 1px 1px;
+}
+
+body #page-area,
+#page-area #ca-left,
+#page-area #ca-right,
+#page-area #ca-top-left,
+#page-area #ca-top-right,
+#page-area #ca-bot-left,
+#page-area #ca-bot-right,
+#page-area #content-area,
+#page-area #content-area-wrapper,
+#page-area #content-area-inner-wrapper,
+#page-area #main-content-nav #tabs,
+#page-area #main-content-nav,
+#page-are #main-content-nav.back-link,
+#page-area #content-area #main-content,
+#page-area #content-area-inner-wrapper #content-area-column-divider,
+#page-area #content-area-inner-wrapper #content-area-column-divider #main-content {
+	display: inline;
+}
+
+#page-area #main-content-nav {
+	display: none;
+}
+
+#page-area #main-content,
+#page-area #sub-content {
+	padding-top: 20px;
+}
+
+#page-area .data-table th,
+#page-area .data-table td {
+	border: 1px solid #999;
+	border-width: 0px 1px 1px 0px;
+}
+
+#page-area .featured-info-content,
+#page-area #featured-news-story .caption,
+#page-area #sub-content .quick-info-block .caption,
+#page-area #content-area .photo .caption,
+#page-area #content-area #featured-news-story .caption {
+	position: static;
+	border: 1px solid #ccc;
+	border-width: 0px 1px 1px;
+}
+
+#page-area #tabs {
+	border-bottom: 1px solid #ccc;
+	display: inline;
+}
+
+#page-area #school-intro-content-wrapper {
+	position: static;
+	border-bottom: 1px solid #ccc;
+	height: auto;
+	width: auto;
+}
+
+#page-area #featured-news-image,
+#page-area #featured-news-image .size-364 {
+	height: auto;
+}
+
+#page-area #school-intro-content,
+#page-area #school-intro-content-inside {
+	height: auto;
+	width: auto;
+}
+
+#page-area #school-intro-content-wrapper #school-thumbnail-list li,
+#page-area #school-intro-content-wrapper #school-thumbnail-list li.right {
+	float: none;
+}
+
+#page-area #content-block #top-stories ul,
+#page-area #content-block #features ul {
+	list-style: none;
+	margin-left: 0px;
+}
+
+#page-area #content-block #top-stories li.with-thumbnail {
+	float: left;
+	clear: both;
+}
+
+#page-area #content-block #top-stories li.with-thumbnail img.thumbnail {
+	float: left;
+	margin: 0px 10px 5px 0px;
+}
+
+#page-area #content-area #featured-events-list {
+	margin: 0px;
+	list-style: none;
+}
+
+#page-area #content-area #events-list ul {
+	clear: both;
+	float: left;
+	width: 100%;
+	list-style: none;
+	margin-left: 0px;
+}
+
+#page-area #content-area #events-list li {
+	clear: both;
+	float: left;
+	width: 100%;
+}
+
+#page-area #content-area #events-list h3,
+#page-area #content-area #events-list .hr {
+	clear: both;
+	width: 100%;
+}
+
+#page-area #content-area #events-navigation {
+	clear: both;
+}
+
+#home-page #page-area #main-content {
+	position: static;
+}

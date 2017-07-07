@@ -1,0 +1,39 @@
+The authenticity of host '192.168.2.4 (192.168.2.4)' can't be established.
+ECDSA key fingerprint is 4d:90:71:bf:86:bf:cd:a7:db:6f:8e:82:68:68:38:7c.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added '192.168.2.4' (ECDSA) to the list of known hosts.
+mininet@192.168.2.4's password: 
+Welcome to Ubuntu 13.04 (GNU/Linux 3.8.0-19-generic i686)
+
+ * Documentation:  https://help.ubuntu.com/
+New release '13.10' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+Last login: Fri Jan 10 04:17:40 2014
+mininet@mininet-vm:~$ sudo mn --test pingpair
+*** Creating network
+*** Adding controller
+*** Adding hosts:
+h1 h2 
+*** Adding switches:
+s1 
+*** Adding links:
+(h1, s1) (h2, s1) 
+*** Configuring hosts
+h1 h2 
+*** Starting controller
+*** Starting 1 switches
+s1 
+h1 -> h2 
+h2 -> h1 
+*** Results: 0% dropped (2/2 received)
+*** Stopping 1 switches
+s1 ..
+*** Stopping 2 hosts
+h1 h2 
+*** Stopping 1 controllers
+c0 
+*** Done
+completed in 0.305 seconds
+mininet@mininet-vm:~$ 
+

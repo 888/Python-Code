@@ -1,0 +1,10 @@
+
+
+document.write("<table cellpadding=\"0\" cellspacing=\"0\" style=\"border-style:none;width:125px;background-color:#FFFFCC;\">");
+document.write("<tr style=\"background-color:#FFFFCC;\">");
+document.write("<td style=\"width:125px;background-color:#FFFFCC;vertical-align:top;text-align:center;\">");
+document.write("<a href=\"http://www.projectwonderful.com/out.php?go=108269001&_r=" +  escape(document.referrer) + "\" target=\"_blank\"><img src=\"http://www.projectwonderful.com/img/uploads/pics/21121-1304562718.png\" width=125 height=125 border=0 title=\"Words &amp; Unwords\" alt=\"Words &amp; Unwords\"></a>");
+document.write("</td>");
+document.write("</tr>");
+document.write("<tr><td style=\"background-color:#FFFFCC;\" colspan=1><center><a style=\"font-size:10px;color:#333399;line-height:1.2;text-decoration:none;font-weight:bold;background-color:#FFFFCC;font-family:tahoma,verdana,arial,helvetica,sans-serif;text-transform: none;letter-spacing:normal;text-shadow:none;white-space:normal;word-spacing:normal;\" href=\"http://www.projectwonderful.com/advertisehere.php?id=1591&type=4\" target=\"_blank\">Ads by Project Wonderful!  Your ad here, right now: $0</a></center></td></tr>");
+document.write("</table>");

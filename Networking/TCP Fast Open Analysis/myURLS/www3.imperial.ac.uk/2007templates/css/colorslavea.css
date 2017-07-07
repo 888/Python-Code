@@ -1,0 +1,153 @@
+/* COLOUR ONE: BLUE
+-------------------------------*/						 
+			   
+/*= FEATURED NEWS BLOCK  
+-------------------------------------------------*/
+
+#featured-news-block, 
+#featured-news-list {
+	background-color: #44b6d0;
+}			 
+
+#featured-news-list h2 {
+	background: #28849b none;
+}		
+
+#featured-news-list ul {
+	background: #44b6d0 url(/2007templates/images/featured_news_list_bot_blue_bg.gif) repeat-x 0% 100%;
+}		
+	  
+#featured-news-list ul li.active {
+	color: #1e1d1c;
+	background-color: #57d8eb;
+}					
+
+
+					  
+#featured-news-list ul li a:link,
+#featured-news-list ul li a:visited {
+    color: #1e1d1c;
+
+}
+
+
+/*= CALLOUT AND PWP 
+-------------------------------------------------*/
+
+.callout .callout-content {
+	background-color: #44b6d0;
+}  
+
+.callout h2 {
+	background: #28849b none; 
+
+}      
+
+.callout h3 {
+   color: #1e1d1c;
+
+} 
+
+.callout a:link,
+.callout a:visited {
+	color: #1E1D1C;
+	text-decoration: underline;
+}
+
+.callout a:hover {
+	text-decoration: none;
+}				
+
+.callout a:active {
+	color: #fff;
+	text-decoration: underline;
+}
+
+
+.callout .more a:hover,
+.callout a.more:hover {
+	text-decoration: none;
+}  		
+
+.callout .more a:link,
+.callout .more a:visited,
+.callout a.more:link,
+.callout a.more:visited {  
+   text-decoration: underline;
+   padding-left: 1.2em;
+   color: #1e1d1c;
+   font-size: 1em;
+   background: transparent url(/2007templates/images/bullet_callout_more.gif) no-repeat .05em .5em;	 
+	
+}
+
+
+.callout .more a:active,
+.callout a.more:active {
+   text-decoration: underline;
+   padding-left: 1.2em;
+   color: #1e1d1c;
+   font-size: 1em;
+   background: transparent url(/2007templates/images/bullet_callout_more.gif) no-repeat .05em .5em;	
+
+}
+
+#contact-details {
+	background-color:#44b6d0;
+}
+
+#contact-details h2 {
+	color:#fff;
+	background: #28849b none; 
+}
+
+#contact-details h3,
+#contact-details p,
+#contact-details a {
+	color:#000;
+}
+
+/*New Callout Styles*/
+.callout_box a:link,
+.callout_box a:visited {
+	color: #1E1D1C;
+	text-decoration: underline;
+}
+
+.callout_box a:hover {
+	text-decoration: none;
+}				
+
+.callout_box a:active {
+	color: #fff;
+	text-decoration: underline;
+}
+
+
+.callout_box .more a:hover,
+.callout_box a.more:hover {
+	text-decoration: none;
+}  		
+
+.callout_box .more a:link,
+.callout_box .more a:visited,
+.callout_box a.more:link,
+.callout_box a.more:visited {  
+   text-decoration: underline;
+   padding-left: 1.2em;
+   color: #1e1d1c;
+   font-size: 1em;
+   background: transparent url(/2007templates/images/bullet_callout_more.gif) no-repeat .05em .5em;	 
+	
+}
+
+
+.callout_box .more a:active,
+.callout_box a.more:active {
+   text-decoration: underline;
+   padding-left: 1.2em;
+   color: #1e1d1c;
+   font-size: 1em;
+   background: transparent url(/2007templates/images/bullet_callout_more.gif) no-repeat .05em .5em;	
+
+}

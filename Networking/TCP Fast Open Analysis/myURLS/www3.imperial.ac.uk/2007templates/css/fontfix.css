@@ -1,0 +1,32 @@
+/* -----------------------------------------------------------------------*/
+/* Fixes font sizes for Oracle edit mode                                  */
+/* -----------------------------------------------------------------------*/
+
+
+.OraLinkText,
+.OraNavBarViewOnly,
+.OraNavBarInactiveLink,
+.OraCrumbsEnabled,
+.OraHeaderSubSub,
+.OraCrumbsSelected,
+.OraGlobalButtonText,
+.OraInlineInfoText {
+  font-size: 1.2em;
+}
+
+.OraBGAccentDark,
+.OraBGAccentLight {
+
+}
+
+
+.OraBGAccentDark {
+  height:0.1em;
+  padding:0;
+  border:0;
+  margin:0;
+}
+
+.RegionHeaderColor {
+  font-size:100%;
+}

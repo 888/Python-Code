@@ -1,0 +1,3253 @@
+
+	Attack data provided, as command line argument 'artificial-profile.pcap'
+---------------------------------------------
+Smoothing Factor: 1.1
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 75.4060324826
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 66.0761887564 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.1
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 78.7219644238
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 66.0761887564 is greater than the threshold of 60. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.1
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 83.3139984532
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 66.0761887564 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.1
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.4323279196
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 66.0761887564 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.1
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.148878577
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 66.0761887564 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.2
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 75.5607115236
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 64.594410507 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.2
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 78.905645785
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 64.594410507 is greater than the threshold of 60. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.2
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 84.3387470998
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 64.594410507 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.2
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.9543696829
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 64.594410507 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.2
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.4872389791
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 64.594410507 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.3
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 75.7637277649
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 63.2016730968 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.3
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 79.8337200309
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 63.2016730968 is greater than the threshold of 60. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.3
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 85.5085073473
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 63.2016730968 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.3
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 88.6890951276
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 63.2016730968 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.3
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.8255993813
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 63.2016730968 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.4
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 75.9860788863
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 61.8890922377 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.4
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 80.9164733179
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 61.8890922377 is greater than the threshold of 60. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.4
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 86.5912606342
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 61.8890922377 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.4
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 88.8921113689
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 61.8890922377 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.4
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.1349574633
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 61.8890922377 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.5
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 76.3244392885
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 60.648992516 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.5
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 81.3901778809
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 60.648992516 is greater than the threshold of 60. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.5
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 86.7652745553
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 60.648992516 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.5
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 88.9984532096
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 60.648992516 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.5
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.1639597834
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 60.648992516 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.6
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 76.7981438515
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 59.4747031803 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.6
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 81.8252126837
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 59.4747031803 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.6
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.1713070379
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 59.4747031803 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.6
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.4528228925
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 59.4747031803 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.6
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.1736272235
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 59.4747031803 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.7
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 77.0688321732
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 58.3603945733 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.7
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 82.7049497293
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 58.3603945733 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.7
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.2583139985
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 58.3603945733 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.7
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.9651972158
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 58.3603945733 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.7
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.1736272235
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 58.3603945733 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.8
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 77.503866976
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 57.3009459856 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.8
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 83.1883217324
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 57.3009459856 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.8
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.5483372003
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 57.3009459856 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.8
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.4098994586
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 57.3009459856 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.8
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.1929621036
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 57.3009459856 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.9
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 78.0259087394
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 56.2918380426 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 1.9
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 83.3526682135
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 56.2918380426 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.9
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.8383604022
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 56.2918380426 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.9
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.5162412993
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 56.2918380426 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 1.9
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.2219644238
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 56.2918380426 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.0
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 78.6832946636
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 55.3290644195 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 2.0
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 83.8457076566
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 55.3290644195 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.0
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 88.2057231245
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 55.3290644195 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.0
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.6999226605
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 55.3290644195 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.0
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.250966744
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 55.3290644195 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.1
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 78.8766434648
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 54.4090589126 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 2.1
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 84.3387470998
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 54.4090589126 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.1
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 88.7084300077
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 54.4090589126 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.1
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.1639597834
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 54.4090589126 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.1
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.3573085847
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 54.4090589126 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.2
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 79.3503480278
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 53.528634809 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 2.2
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 85.3634957463
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 53.528634809 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.2
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.1918020108
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 53.528634809 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.2
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.1832946636
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 53.528634809 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.2
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.4733178654
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 53.528634809 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.3
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 79.6307037896
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 52.6849341752 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 2.3
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 86.4172467131
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 52.6849341752 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.3
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.3658159319
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 52.6849341752 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.3
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.1929621036
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 52.6849341752 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.3
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.715003867
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 52.6849341752 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.4
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 80.1334106729
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 51.8753852041 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 2.4
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 86.6782675947
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 51.8753852041 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.4
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.4044856922
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 51.8753852041 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.4
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.2122969838
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 51.8753852041 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.4
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 92.024361949
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 51.8753852041 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.5
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 80.7907965971
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 51.0976661483 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 2.5
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 86.9199535963
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 51.0976661483 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.5
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.5108275329
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 51.0976661483 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.5
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.2412993039
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 51.0976661483 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.5
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 92.507733952
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 51.0976661483 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.6
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 81.4481825213
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 50.3496746708 is greater than the threshold of 50. It doesn't fit the model. 
+Total number of True Negatives: 100.0
+Total number of False Positives: 0.0
+
+---------------------------------------------
+Smoothing Factor: 2.6
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.1423047177
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 50.3496746708 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.6
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.9361948956
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 50.3496746708 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.6
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.2606341841
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 50.3496746708 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.6
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 93.0587780356
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 50.3496746708 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.7
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 81.7478731632
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 49.6295016769 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.7
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.3646558391
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 49.6295016769 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.7
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.2842227378
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 49.6295016769 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.7
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.2896365043
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 49.6295016769 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.7
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 93.5421500387
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 49.6295016769 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.8
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 82.0475638051
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 48.935408872 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.8
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.5193348801
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 48.935408872 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.8
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.6032482599
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 48.935408872 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.8
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.405645785
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 48.935408872 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.8
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 94.064191802
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 48.935408872 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.9
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 82.7049497293
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 48.2658094349 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.9
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.5773395205
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 48.2658094349 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.9
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.63225058
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 48.2658094349 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.9
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.5409899459
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 48.2658094349 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 2.9
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 94.5088940449
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 48.2658094349 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.0
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 82.9466357309
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 47.619251306 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.0
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.8963650425
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 47.619251306 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.0
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.6612529002
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 47.619251306 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.0
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.7536736272
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 47.619251306 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.0
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 94.7699149265
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 47.619251306 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.1
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 83.275328693
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 46.9944026843 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.1
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 88.1960556845
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 46.9944026843 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.1
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.0189481825
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 46.9944026843 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.1
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 92.034029389
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 46.9944026843 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.1
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.0986078886
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 46.9944026843 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.2
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 83.4880123743
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 46.3900393931 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.2
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 88.8727764888
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 46.3900393931 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.2
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.2219644238
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 46.3900393931 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.2
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 92.4207269915
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 46.3900393931 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.2
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.3886310905
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 46.3900393931 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.3
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 83.7296983759
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 45.8050338384 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.3
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.3561484919
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 45.8050338384 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.3
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.2316318639
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 45.8050338384 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.3
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 92.8944315545
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 45.8050338384 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.3
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.6593194122
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 45.8050338384 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.4
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 84.0293890178
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 45.2383453267 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.4
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.375483372
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 45.2383453267 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.4
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.2606341841
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 45.2383453267 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.4
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 93.3004640371
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 45.2383453267 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.4
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.8720030936
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 45.2383453267 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.5
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 84.6191028616
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 44.6890115482 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.5
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.4141531323
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 44.6890115482 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.5
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.2993039443
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 44.6890115482 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.5
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 93.74516628
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 44.6890115482 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.5
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.0266821346
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 44.6890115482 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.6
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 85.0251353442
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 44.1561410636 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.6
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.4238205723
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 44.1561410636 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.6
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.3669760247
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 44.1561410636 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.6
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 94.2478731632
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 44.1561410636 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.6
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.1136890951
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 44.1561410636 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.7
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 85.2378190255
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 43.6389066567 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.7
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.4334880124
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 43.6389066567 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.7
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.4346481052
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 43.6389066567 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.7
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 94.5088940449
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 43.6389066567 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.7
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.249033256
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 43.6389066567 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.8
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 86.0305491106
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 43.1365394375 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.8
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.5591647332
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 43.1365394375 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.8
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.5893271462
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 43.1365394375 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.8
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 94.7409126063
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 43.1365394375 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.8
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.3360402166
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 43.1365394375 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.9
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 86.6686001547
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 42.6483235977 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.9
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.9748646558
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 42.6483235977 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.9
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.7730085073
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 42.6483235977 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.9
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.001933488
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 42.6483235977 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 3.9
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.413379737
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 42.6483235977 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.0
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 86.9102861562
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 42.1735917339 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.0
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.3228924981
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 42.1735917339 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.0
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 92.0630317092
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 42.1735917339 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.0
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.1469450889
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 42.1735917339 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.0
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.4617169374
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 42.1735917339 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.1
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.1713070379
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 41.7117206684 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.1
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.5935808198
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 41.7117206684 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.1
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 92.3917246713
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 41.7117206684 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.1
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.2919566899
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 41.7117206684 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.1
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.6067285383
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 41.7117206684 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.2
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.2583139985
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 41.2621277045 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.2
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.6805877804
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 41.2621277045 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.2
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 92.7204176334
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 41.2621277045 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.2
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.4853054911
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 41.2621277045 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.2
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.9740912606
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 41.2621277045 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.3
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.3743232792
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 40.824267265 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.3
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.6805877804
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 40.824267265 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.3
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 93.1457849961
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 40.824267265 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.3
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.630317092
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 40.824267265 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.3
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.9837587007
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 40.824267265 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.4
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.5096674401
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 40.3976278683 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.4
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.6805877804
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 40.3976278683 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.4
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 93.4648105182
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 40.3976278683 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.4
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.8430007734
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 40.3976278683 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.4
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.0127610209
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 40.3976278683 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.5
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.6063418407
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.9817294009 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.5
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.9029389018
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.9817294009 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.5
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 93.8901778809
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.9817294009 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.5
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.9493426141
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.9817294009 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.5
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.0514307811
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.9817294009 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.6
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 87.8673627224
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.5761206554 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.6
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.1832946636
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.5761206554 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.6
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 94.2575406032
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.5761206554 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.6
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.0073472544
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.5761206554 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.6
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.0707656613
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.5761206554 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.7
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 88.3023975251
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.1803771007 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.7
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.3089713844
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.1803771007 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.7
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 94.5185614849
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.1803771007 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.7
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.0846867749
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.1803771007 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.7
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.1191028616
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 39.1803771007 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.8
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 88.5634184068
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.7940988613 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.8
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.4153132251
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.7940988613 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.8
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 94.692575406
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.7940988613 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.8
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.1620262954
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.7940988613 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.8
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.1384377417
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.7940988613 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.9
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 88.8727764888
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.4169088819 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.9
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.4926527456
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.4169088819 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.9
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 94.9052590874
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.4169088819 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.9
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.2780355762
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.4169088819 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 4.9
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.1384377417
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.4169088819 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.0
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.1531322506
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.0484512569 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.0
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.6376643465
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.0484512569 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.0
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.0406032483
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.0484512569 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.0
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.3650425367
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.0484512569 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.0
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.1481051817
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 38.0484512569 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.1
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.3368136118
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 37.6883897084 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.1
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 91.7923433875
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 37.6883897084 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.1
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.156612529
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 37.6883897084 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.1
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.403712297
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 37.6883897084 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.1
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.1674400619
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 37.6883897084 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.2
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.4334880124
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 37.3364061975 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.2
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 92.034029389
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 37.3364061975 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.2
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.3016241299
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 37.3364061975 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.2
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.4327146172
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 37.3364061975 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.2
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.1771075019
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 37.3364061975 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.3
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.4528228925
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.992199654 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.3
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 92.2853828306
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.992199654 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.3
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.4466357309
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.992199654 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.3
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.4907192575
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.992199654 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.3
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.186774942
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.992199654 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.4
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.4624903326
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.6554848137 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.4
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 92.5947409126
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.6554848137 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.4
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.4853054911
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.6554848137 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.4
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.6067285383
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.6554848137 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.4
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.1964423821
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.6554848137 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.5
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.4624903326
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.3259911526 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.5
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 92.9814385151
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.3259911526 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.5
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.5529775715
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.3259911526 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.5
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.9547563805
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.3259911526 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.5
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.2061098221
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.3259911526 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.6
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.4624903326
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.0034619081 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.6
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 93.281129157
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.0034619081 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.6
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.5723124517
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.0034619081 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.6
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 96.9837587007
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.0034619081 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.6
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.2254447022
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 36.0034619081 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.7
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.5204949729
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.6876531792 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.7
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 93.600154679
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.6876531792 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.7
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.6496519722
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.6876531792 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.7
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.0224284609
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.6876531792 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.7
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.2254447022
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.6876531792 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.8
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 89.849187935
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.3783330985 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.8
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 93.9288476411
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.3783330985 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.8
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.7946635731
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.3783330985 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.8
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.0417633411
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.3783330985 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.8
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.2254447022
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.3783330985 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.9
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.1198762568
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.0752810682 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.9
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 94.2285382831
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.0752810682 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.9
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.8623356535
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.0752810682 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.9
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.0514307811
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.0752810682 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 5.9
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.2254447022
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 35.0752810682 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 6.0
+Threshold for Mahalanobis Distance: 50
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 90.4098994586
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 34.7782870559 is lesser than the threshold of 50. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 6.0
+Threshold for Mahalanobis Distance: 60
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 94.4315545244
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 34.7782870559 is lesser than the threshold of 60. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 6.0
+Threshold for Mahalanobis Distance: 70
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 95.9590100541
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 34.7782870559 is lesser than the threshold of 70. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 6.0
+Threshold for Mahalanobis Distance: 80
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.0610982212
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 34.7782870559 is lesser than the threshold of 80. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------
+Smoothing Factor: 6.0
+Threshold for Mahalanobis Distance: 90
+Training the Model
+Testing the Model
+Total Number of testing samples: 10344
+Percentage of True positives: 97.2254447022
+--------------------------------------
+Analysing attack data, of length 1380
+Calculated distance of 34.7782870559 is lesser than the threshold of 90. It fits the model. 
+Total number of True Negatives: 0.0
+Total number of False Positives: 100.0
+
+---------------------------------------------

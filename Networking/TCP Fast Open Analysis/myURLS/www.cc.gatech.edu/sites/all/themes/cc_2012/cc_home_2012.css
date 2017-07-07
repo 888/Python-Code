@@ -1,0 +1,364 @@
+/*Page Level Tweaks*/
+#homepage {
+	width: 100%;	
+}
+
+
+#homepage h2 {
+		margin-bottom: 0.3em;
+		font-size:  28px;
+		color: #00254c;
+		padding-top: 10px;
+}
+
+.panel-2col-bricks .panel-col-first {
+		border-right: 1px solid #CCCCCC;
+}
+
+.panel-2col-bricks .panel-col-last {
+width: 49%;
+}
+
+.panel-2col-bricks .panel-col-top .inside, .panel-2col-bricks .panel-col-middle .inside {
+margin-bottom: 0;
+}
+
+
+
+/* JQuery Rotator Box */
+
+#rotator .jcarousel-container{
+	max-width: 860px;
+	overflow-x: hidden;
+}
+
+
+#rotator .view-content {
+    width: 860px;
+    height: 350px;
+    overflow: hidden;
+}
+
+#rotator img {
+    width: 860px;
+    height: 350px;
+}
+
+#rotator .view-footer {
+    height: 0;
+}
+
+#rotator ul li {
+    background: transparent;
+    padding: 0;
+}
+
+/* Backdrop for Description Text*/
+
+#rotator #navControl {
+    z-index: 0;
+    background-color: #333;
+    left: 0px;
+    top: -350px;
+    width: 230px;
+    height: 350px;
+    position: relative;
+}
+
+/* Slide Title textbox */
+
+.views-field-nothing {
+    width: 180px;
+}
+
+.views-field-nothing .field-content {
+    color: #FFF;
+    z-index: 3;
+    bottom: 320px;
+    font-size: 30px;
+    line-height: 38px;
+    font-weight: bold;
+    left: 20px;
+    position: relative;
+		word-spacing: 2px;
+}
+
+/* Slide Description textbox */
+
+.views-field-body .field-content {
+    color: #fff;
+    font-size: 22px;
+    position: relative;
+    z-index: 3;
+    bottom: 310px;
+    line-height: 25px;
+    width: 189px;
+    left: 20px;
+    font-style: italic;
+    border-top: 1px #ddd dotted;
+    margin-top: 5px;
+}
+
+/* JQuery Rotator Navigation Boxes */
+
+#rotator .jcarousel-navigation li {
+    float: left;
+    margin-left: 4px;
+    margin-top: 3px;
+    background-color: #fff;
+    min-width: 10px;
+    max-width: 10px;
+    max-height: 10px;
+		font-size: 0px;
+		border-radius: 5px;
+}
+
+#rotator .jcarousel-navigation li.active {
+    background-color: #c59353;
+    font-size: 0px;
+    min-width: 10px;
+    max-width: 10px;
+    max-height: 10px;
+}
+
+#rotator ul.jcarousel-navigation {
+    z-index: 5;
+    position: absolute;
+    bottom: 270px;
+    width: 189px;
+    /*list-style-type: circle;*/
+    padding: 0 7px 0 17px;
+		margin: 0px;
+}
+
+#rotator ul.jcarousel-navigation a {
+    color: transparent;
+    display: block;
+    width: 10px;
+    height: 10px;
+}
+
+#rotator p {
+		font-size: 22px;
+		line-height: 28px;
+		border-top: 1px #DDD dotted;
+		margin-top: 5px;
+		padding-top: 15px;
+		font-style: italic;
+}
+
+
+
+/* Events section*/
+
+
+#events {
+    max-height: 300px;
+    width: 860px;
+    padding-bottom: 20px;
+    border-top: 1px #BBB solid;
+}
+
+#events table {
+    width: 860px;
+}
+
+#events table td {
+    width: 150px;
+    max-width: 172px;
+    padding: 10px 16px;
+    border-left: 1px #ccc dotted;
+}
+
+#events table :first-child {
+    border-left: 0px #fff;
+    padding-left: 0px;
+}
+
+#events .views-field-field-time-value {
+    height: 96px;
+    background: url(/sites/all/themes/cc_2012/images/headerbg_1x95.png) transparent scroll top left repeat-x;
+}
+
+#events .date-display-single {
+    position: absolute;
+    font-size: 36px;
+    color: #FFF;
+    width: 70%;
+    margin: 25px 15px 15px 25px;
+    padding-top: 10px;
+}
+
+#events .views-field-title {
+    padding: 5px;
+}
+
+#events a {
+    font-size: 14px;
+		font-weight: bold;
+		color: #4d4d4d;
+}
+
+/* SITE LEVEL */
+
+#main {
+    	background: #FFF;
+	height: 1950px;
+	padding-bottom: 10%;
+	width:100%;
+	position: relative;
+	overflow-x: hidden;
+}
+
+#content-inner {
+		border: 0px solid red;
+		margin: 0px;
+}
+
+
+/* ALL TABLES - HOMEPAGE */
+
+
+tr.row1-img, tr.row2-img {
+    border: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+/* CONNECT WITH GT */
+
+#GTconnect {
+    width: 425px;
+    padding-left: 20px;
+    padding-bottom: 0px;
+    border-left: 0px #BBB solid;
+}
+
+
+#GTconnect table {
+    width: 100%;
+    position: relative;
+    left: -10px;
+}
+
+#GTconnect table td {
+    width: 50%;
+    margin: 0px;
+    padding: 0px;
+    border-collapse: collapse;
+}
+
+#GTconnect .tab-image {
+   /* background: #ccc;
+    height: 162px;
+    width: 185px; */
+    border-left: 10px #FFF solid;
+    border-right: 10px #FFF solid;
+}
+
+#GTconnect img {
+    height: 100%;
+	  width: 100%;
+ }
+
+
+#GTconnect .row2-img {
+    border-top: 10px #FFF solid;
+}
+
+/* SCHOOLS */
+
+#schools {
+    width: 860px;
+    padding-bottom: 20px;
+    border-top: 1px #BBB solid;
+		height: 320px;
+}
+
+#schools table {
+    width: 880px;
+    position: relative;
+}
+
+#schools table td {
+    margin: 0px;
+		padding: 0px;
+		border-collapse: collapse;
+		width: 33%;
+}
+
+#schools .tab-image {
+   /* background: #ccc;
+    height: 165px;
+    width: 260px; */
+}
+
+#schools img {
+    height: 178px;
+		width: 280px;
+}
+
+#schools td p {
+		font-size: 18px;
+		line-height: 20px;
+		margin-top: 5px;
+    font-weight: bold;
+    color: #4d4d4d;
+		width: 280px;
+		font-style: italic;
+}
+
+/* FRONT PAGE NEWS */
+
+#fpnews .newsItem {
+  /* padding-left: 90px; */
+   padding-left: 0px;
+   margin-right: 10px;
+   height: 80px;
+   max-height: 130px;
+	 border-bottom: 1px #ccc dotted;
+	 position: relative;
+}
+
+#fpnews div.views-row:last-child {
+   border-bottom: none;
+}
+
+#fpnews img#newsphoto {
+   width: 80px;
+   height: 80px;
+   position: absolute;
+   display: block;
+   top: 15px;
+   left: 0px;
+	 }
+
+#fpnews .view-content {
+    margin-top:-10px;
+   }
+
+#fpnews div.views-field-title {
+		color: #4d4d4d;
+		line-height: 20px;
+		font-size: 17px;
+		padding-bottom: 6px;
+}
+
+#fpnews div.views-field-title a{
+		color: #4d4d4d;
+		font-style: italic;
+}
+
+#fpnews .date-display-single {
+		color: #5697c8;
+		font-size: 13px;
+		font-weight: bold;
+}
+
+#fpnews .views-field-field-publication-value {
+		color: #4d4d4d;
+		font-size: 13px;
+		font-style: italic;
+}
+
+

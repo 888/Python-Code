@@ -1,0 +1,16 @@
+/* IMAGES */
+#slideShowInPage { height: 205px; width: 388px; margin: auto; position:relative; }
+.cycleSlides { position:relative; z-index:1; height:205px; overflow:hidden; }
+
+/* TEXT */
+.slipText{ padding:5px; width:378px; height:30px; background-image:url(images/transpBG.png); background-repeat:repeat-x y; position:absolute; top:165px; left:0px; z-index:3;  color:#d4d4d4; }
+#slipText p { font-size:12px; line-height:12px; }
+#slipText a { color:#FFFFFF; text-decoration:none; }
+.slipText p { padding-top:2px; margin:0px; margin-left:5px; }
+
+/* NAVI */
+.slipNavLeft { margin: 5px 0; width:192px; height:20px; background-image:url(images/transpBG.png); background-repeat:repeat-x y; position:absolute; top:139px; left:0px; z-index:2;  }
+.slipNav{ width:196px; height:20px; background-image:url(images/transpBG.png); background-repeat:repeat-x y; position:absolute; top:144px; left:192px; z-index:2; }
+#prev{ position:relative; top:4px; margin-left:10px; }
+#next { position:relative; top:5px; left:145px; }
+

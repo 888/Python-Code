@@ -1,0 +1,73 @@
+Page    RTT(ms) PLT: no TFO (s) PLT: TFO (s)    Improv.
+httpen.wikipedia.orgwikiTransmission_Control_Protocol
+        200     7321.416        5390.544        26.3729311379
+        20      2001.993        1719.861        14.0925567672
+        100     3783.563        3452.734        8.74384806068
+httpwww.amazon.com
+        200     5541.775        3882.01         29.9500611266
+        20      2072.966        1160.078        44.0377700358
+        100     3138.791        1776.38         43.4055978878
+Page    RTT(ms) PLT: no TFO (s) PLT: TFO (s)    Improv.
+httpen.wikipedia.orgwikiTransmission_Control_Protocol
+        200     7321.416        5390.544        26.3729311379
+        20      2001.993        1719.861        14.0925567672
+        100     3783.563        3452.734        8.74384806068
+httpwww.amazon.com
+        200     5541.775        3882.01         29.9500611266
+        20      2072.966        1160.078        44.0377700358
+        100     3138.791        1776.38         43.4055978878
+Page    RTT(ms) PLT: no TFO (s) PLT: TFO (s)    Improv.
+httpen.wikipedia.orgwikiTransmission_Control_Protocol
+        200     7321.416        5390.544        26.3729311379
+        20      2001.993        1719.861        14.0925567672
+        100     3783.563        3452.734        8.74384806068
+httpwww.amazon.com
+        200     5541.775        3882.01         29.9500611266
+        20      2072.966        1160.078        44.0377700358
+        100     3138.791        1776.38         43.4055978878
+Page    RTT(ms) PLT: no TFO (s) PLT: TFO (s)    Improv.
+httpen.wikipedia.orgwikiTransmission_Control_Protocol
+        200     7321.416        5390.544        26.3729311379
+        20      2001.993        1719.861        14.0925567672
+        100     3783.563        3452.734        8.74384806068
+httpwww.amazon.com
+        200     5541.775        3882.01         29.9500611266
+        20      2072.966        1160.078        44.0377700358
+        100     3138.791        1776.38         43.4055978878
+Page    RTT(ms) PLT: no TFO (s) PLT: TFO (s)    Improv.
+httpen.wikipedia.orgwikiTransmission_Control_Protocol
+        200     7321.416        5390.544        26.3729311379
+        20      2001.993        1719.861        14.0925567672
+        100     3783.563        3452.734        8.74384806068
+httpwww.amazon.com
+        200     5541.775        3882.01         29.9500611266
+        20      2072.966        1160.078        44.0377700358
+        100     3138.791        1776.38         43.4055978878
+Page    RTT(ms) PLT: no TFO (s) PLT: TFO (s)    Improv.
+httpen.wikipedia.orgwikiTransmission_Control_Protocol
+        200     7321.416        5390.544        26.3729311379
+        20      2001.993        1719.861        14.0925567672
+        100     3783.563        3452.734        8.74384806068
+httpwww.amazon.com
+        200     5541.775        3882.01         29.9500611266
+        20      2072.966        1160.078        44.0377700358
+        100     3138.791        1776.38         43.4055978878
+Page    RTT(ms) PLT: no TFO (s) PLT: TFO (s)    Improv.
+httpen.wikipedia.orgwikiTransmission_Control_Protocol
+        200     7321.416        5390.544        26.3729311379
+        20      2001.993        1719.861        14.0925567672
+        100     3783.563        3452.734        8.74384806068
+httpwww.amazon.com
+        200     5541.775        3882.01         29.9500611266
+        20      2072.966        1160.078        44.0377700358
+        100     3138.791        1776.38         43.4055978878
+Page    RTT(ms) PLT: no TFO (s) PLT: TFO (s)    Improv.
+httpen.wikipedia.orgwikiTransmission_Control_Protocol
+        200     7321.416        5390.544        26.3729311379
+        20      2001.993        1719.861        14.0925567672
+        100     3783.563        3452.734        8.74384806068
+httpwww.amazon.com
+        200     5541.775        3882.01         29.9500611266
+        20      2072.966        1160.078        44.0377700358
+        100     3138.791        1776.38         43.4055978878
+

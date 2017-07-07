@@ -1,0 +1,43 @@
+mininet@mininet-vm:~$ cd gt-cs6250/assignment-2/
+mininet@mininet-vm:~/gt-cs6250/assignment-2$ sudo ./topology.sh
+*** Creating network
+*** Adding controller
+*** Adding hosts:
+receiver sender 
+*** Adding switches:
+s1 
+*** Adding links:
+(10.00Mbit 1ms delay 0% loss) (10.00Mbit 1ms delay 0% loss) (receiver, s1) (10.00Mbit 1ms delay 0% loss) (10.00Mbit 1ms delay 0% loss) (s1, sender) 
+*** Configuring hosts
+receiver (cfs 15000/100000us) sender (cfs 15000/100000us) 
+*** Starting controller
+*** Starting 1 switches
+s1 (10.00Mbit 1ms delay 0% loss) (10.00Mbit 1ms delay 0% loss) 
+*** Dumping network connections:
+c0
+s1 lo:  s1-eth1:receiver-eth0 s1-eth2:sender-eth0
+receiver receiver-eth0:s1-eth1
+sender sender-eth0:s1-eth2
+*** Testing connectivity
+*** Ping: testing ping reachability
+receiver -> sender 
+sender -> receiver 
+*** Results: 0% dropped (2/2 received)
+*** Running experiment
+[9.99972277069052, 9.99972277069052, 19.99944554138104]
+Killed
+*** Stopping 1 switches
+s1 ..
+*** Stopping 2 hosts
+receiver sender 
+*** Stopping 1 controllers
+c0 
+*** Done
+Killed
+Experiment took 72.423 seconds
+s1-eth2
+saving to topology-Jan10-20:20/cwnd.png
+Started at Fri Jan 10 20:20:21 PST 2014
+Ended at Fri Jan 10 20:21:35 PST 2014
+Output saved to topology-Jan10-20:20
+

@@ -1,0 +1,20 @@
+#wrap {
+	position:fixed;
+	top:0;
+	background:url("http://www3.imperial.ac.uk/2007templates/images/photo_caption_bg.png") repeat scroll 0 0 transparent;
+	height: 100%;
+	transition: all 0.5s linear;
+	-webkit-transition: all 0.5s linear;
+	-moz-transition: all 0.5s linear;
+	-ie-transition: all 0.5s linear;
+}
+#overlay-window {
+	width:100%;
+	/*background-color:#fff;*/
+	/*border:3px solid #841C1C;*/
+	position:absolute;
+	top:10px; 
+	left: 400px;
+	padding:0 1em 1em;
+	z-index:999;
+}

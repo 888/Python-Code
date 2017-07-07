@@ -1,0 +1,236 @@
+/* Region Fixes for PWPs - test server
+****************************************/
+ 
+/* Home Page 
+------------------------------------------------*/
+ 
+#rg259380 { /* home photo */
+        margin: 0em 0em 0em 1.5em;
+}
+ 
+#rg259880 { /* home summary */
+        padding: 0em 1em 0em 0em;
+        margin: 0em 0em 0em 0em;
+        width:34.5em;
+}
+ 
+#rg259881 { /* faculty link */
+        margin: -3em 0em 0em 0.3em;
+}
+ 
+#rg260382 { /* research areas */
+        margin: -3em 0em 0em 0.3em;
+}
+ 
+/* Home Page New
+------------------------------------------------*/
+ 
+#rg554379 { /* home photo */
+        margin: 0em 0em 0em 1.5em;
+}
+ 
+#rg554384 { /* home summary */
+        padding: 0em 1em 0em 0em;
+        margin: 0em 0em 0em 0em;
+        width:34.5em;
+}
+ 
+#rg554383 { /* faculty link */
+        margin: -3em 0em 0em 0.3em;
+}
+ 
+#rg554388 { /* research areas */
+        margin: -3em 0em 0em 0.3em;
+}
+ 
+/* Honours and Awards 
+------------------------------------------------*/
+ 
+#rg257379 { /* title */
+  margin:-2em 0em 0em 1.2em;
+}
+ 
+#rg257888 { /* honours & awards portlet */
+  margin:-4em 0em 0em .5em;
+  width:58em;
+}
+ 
+#rg257887 { /* invited pres title */
+  margin:0em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg257886 { /* invited pres text */
+  margin:0em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg257885 { /* other sig title */
+  margin:-1em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg257884 { /* other sig text */
+  margin:0em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg257883 { /* plenary title */
+  margin:-1em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg257882 { /* plenary text */
+  margin:0em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg257881 { /* further info title */
+  margin:-1em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg257880 { /* further info text */
+  margin:0em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg257381 { /* faculty link */
+  margin:-3em 0em 0em 0em;
+}
+ 
+#rg257891 { /* research areas */
+  margin:-3em 0em 0em 0em;
+}
+ 
+/* Research 
+------------------------------------------------*/
+ 
+#rg255379 { /* title */
+  margin:-2em 0em 0em 1.2em;
+}
+ 
+#rg255886 { /* interest title */
+  margin:-1.5em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg255885 { /* interests text */ 
+  margin:0em 1.2em 0em 1.5em;
+  width:56em;
+}
+ 
+#rg255884 { /* funding title */
+  margin:-1.5em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg255883 { /* funding text */ 
+  margin:0em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg255882 { /* research portlet */
+  margin:-1em 0em 0em .5em;
+  width:58em;
+}
+ 
+#rg255381 { /* faculty link */
+  margin:-3em 0em 0em 0em;
+}
+ 
+#rg255880 { /* research areas */
+  margin:-3em 0em 0em 0em;
+}
+ 
+/* Publications page 
+------------------------------------------------*/
+ 
+#rg254379 { /* title */
+  margin:-2em 0em 0em 1.2em;
+}
+ 
+#rg254884 { /* pubs portlet */
+  margin:-1em 0em 0em 0em;
+}
+ 
+#rg254883 { /* other pubs title */
+  margin:-2em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg254882 { /* other pubs text */
+  margin:0em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg254381 {/* faculty link */
+  margin:-3em 0em 0em 0em;
+}
+ 
+#rg254880 { /* research areas */
+  margin:-3em 0em 0em 0em;
+}
+ 
+/* Commerical Activity 
+------------------------------------------------*/
+ 
+#rg258379 { /* title */
+  margin:-2em 0em 0em 1.2em;
+}
+ 
+#rg356379 { /* other activity title */
+  margin:-2em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg258385 { /* other activity text */
+  margin:0em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg267879 { /* commercial activity portlet */
+  margin:-2em 0em 0em 0em;
+  width:58em;
+}
+ 
+#rg258381 { /* faculty link */
+  margin:-3em 0em 0em 0em;
+}
+ 
+#rg258383 { /* research areas */
+  margin:-3em 0em 0em 0em;
+}
+ 
+/* Teaching 
+------------------------------------------------*/
+ 
+#rg256379 { /* title */
+  margin:-2em 0em 0em 1.2em;
+}
+ 
+#rg256884 { /* teaching portlet */
+  margin:-3em 1em 0em 0.8em;
+  width:58em;
+}
+ 
+#rg256883 { /* other teaching title */
+  margin:-1em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg256882 { /* other teaching text */
+  margin:0em 1em 0em 1.2em;
+  width:56em;
+}
+ 
+#rg256381 { /* faculty link */
+  margin:-3em 0em 0em -1em;
+}
+ 
+#rg256880 { /* research areas */
+  margin:-3em 0em 0em -1em;
+}
+ 
+/* end region fixes
+------------------------------------------------*/
